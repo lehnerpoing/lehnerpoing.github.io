@@ -1,0 +1,126 @@
+body {
+  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif, serif;
+  color: #2b160d;
+  background: white;
+}
+body *:not(i) {
+  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif;
+}
+h1 {
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif;
+  color: #704231;
+}
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif, serif;
+  color: #2b160d;
+}
+a {
+  color: #704231;
+}
+#bteaser {
+  min-height: 30vh;
+}
+header #headermenuw {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+header #mnt {
+  position: absolute;
+  left: 1rem;
+  top: 1rem;
+}
+header #mnt #mntbt {
+  box-shadow: none;
+}
+header #mnt i {
+  color: white;
+}
+header #headermenu {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  padding: 0!important;
+  max-height: 0px;
+  overflow: hidden;
+  opacity: 0;
+  transition-property: all;
+  transition-duration: 0.6s;
+  transition-timing-function: ease-in-out;
+}
+header #headermenu.mobvis {
+  max-height: 1000px;
+  transition-property: all;
+  transition-duration: 0.6s;
+  transition-timing-function: ease-in-out;
+  opacity: 1;
+}
+@media (max-width: 1280px) {
+  header #headermenu {
+    padding-left: 2rem;
+  }
+}
+header #headermenu .headermenuitem {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 0.9rem;
+  line-height: 1rem;
+  padding: 0 1rem;
+}
+header #headermenu .headermenuitem.active {
+  text-decoration: underline;
+}
+header #headermenu .headermenuitem:last-child {
+  border: none;
+}
+@media (max-width: 1280px) {
+  header #headermenu .headermenuitem {
+    padding: 0 0.5rem;
+    margin-top: 1rem;
+  }
+}
+@media (max-width: 720px) {
+  header #headermenu .headermenuitem {
+    border: none;
+    text-transform: none;
+    text-align: left;
+    width: 25%;
+  }
+}
+footer {
+  display: block;
+}
+footer.ui.container {
+  margin: 1rem 0 0 0!important;
+}
+footer .footermenu {
+  display: flex!important;
+  justify-content: center;
+}
+footer .footermenu a {
+  color: white!important;
+  padding: 1rem;
+}
+@media (max-width: 767px) {
+  footer .footermenu a {
+    padding: 1rem 0.5rem;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .sy-box .sy-slide .product-info {
+    padding: 1em 2.4em;
+  }
+}
+.sy-box .sy-slide .image-content {
+  line-height: 0;
+}
+.sy-box .sy-slide li img {
+  width: 100%;
+}
+.sy-box .sy-slide.sy-active {
+  opacity: 1;
+}

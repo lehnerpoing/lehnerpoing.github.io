@@ -1,0 +1,137 @@
+@brown_dark:rgb(68,39,31);
+@brown_light:rgb(112,66,49);
+@brown_light_back:rgb(240,236,234);
+@h1:rgb(112,66,49);
+@h2:rgb(43,22,13);
+@green:rgb(94,116,54);
+@green_dark:rgb(42,57,21);
+@fontcolor:rgb(43,22,13);
+
+body{
+  font-family: 'Abadi MT W01 Regular1564185',Arial, Helvetica, sans-serif,serif;
+  color:@fontcolor;
+  *:not(i){
+    font-family: 'Abadi MT W01 Regular1564185',Arial, Helvetica, sans-serif;
+  }
+  background:white;
+}
+h1{
+  font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif;
+  color:@h1;
+}
+h2,h3,h4,h5{
+  font-family: 'Abadi MT W01 Regular1564185',Arial, Helvetica, sans-serif,serif;
+  color:@h2;
+}
+a{
+  color:@brown_light;
+}
+
+#bteaser{
+  min-height:30vh;
+}
+
+header{
+  #headermenuw{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    flex-grow: 1;
+  }
+  #mnt{
+    position:absolute;
+    left:1rem;
+    top:1rem;
+    #mntbt{
+      box-shadow:none;
+    }
+    i{
+      color:white;
+      
+    }
+  }
+  #headermenu{
+    display:flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding:0!important;
+    max-height:0px;
+    overflow:hidden;
+    opacity: 0;
+    transition-property: all;
+    transition-duration: 0.6s;
+    transition-timing-function: ease-in-out;
+    &.mobvis{
+      max-height:1000px;
+      transition-property: all;
+      transition-duration: 0.6s;
+      transition-timing-function: ease-in-out;
+      opacity: 1;
+    }
+    @media (max-width: 1280px){
+      padding-left:2rem;
+    }
+    .headermenuitem{
+      text-transform:uppercase;
+      text-align:center;
+      font-size:0.9rem;
+      line-height:1rem;
+      &.active{
+        text-decoration: underline;
+      }
+      padding:0 1rem;
+      &:last-child{
+        border:none;
+      }
+      @media (max-width: 1280px){
+        padding:0 0.5rem;
+        margin-top:1rem;
+      }
+      @media (max-width: 720px){
+        border:none;
+        text-transform:none;
+        text-align:left;
+        width:25%;
+      }
+    }
+  }
+}
+footer{
+  display:block;
+  &.ui.container{
+    margin:1rem 0 0 0!important;
+  }
+  .footermenu{
+    display:flex!important;
+    justify-content: center;
+    a{
+      color:white!important;
+      padding:1rem;
+      @media (max-width: 767px){
+        padding:1rem 0.5rem;
+      }
+    }
+  }
+}
+.subpage{
+  
+}
+
+#home{
+  
+}
+
+@media only screen and (max-width: 500px) {
+  .sy-box .sy-slide .product-info {
+    padding: 1em 2.4em;
+  }
+}
+.sy-box .sy-slide .image-content {
+  line-height: 0;
+}
+.sy-box .sy-slide li img {
+  width: 100%;
+}
+.sy-box .sy-slide.sy-active {
+  opacity: 1;
+}

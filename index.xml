@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lehner</title>
+    <link>https://lehnerpoing.github.io/</link>
+    <description>Recent content on Lehner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sat, 05 Jan 2019 16:32:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://lehnerpoing.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://lehnerpoing.github.io/datenschutz/</link>
+      <pubDate>Sun, 06 Jan 2019 07:53:05 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/datenschutz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haftungsausschluss</title>
+      <link>https://lehnerpoing.github.io/haftungsausschluss/</link>
+      <pubDate>Sun, 06 Jan 2019 07:52:40 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/haftungsausschluss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://lehnerpoing.github.io/impressum/</link>
+      <pubDate>Sun, 06 Jan 2019 07:52:16 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/impressum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lehner Agrar - Lohnbetrieb</title>
+      <link>https://lehnerpoing.github.io/lehner-agrar-lohnbetrieb/</link>
+      <pubDate>Sun, 06 Jan 2019 07:51:47 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/lehner-agrar-lohnbetrieb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Über uns</title>
+      <link>https://lehnerpoing.github.io/%C3%BCber-uns/</link>
+      <pubDate>Sun, 06 Jan 2019 07:51:16 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/%C3%BCber-uns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kontakt</title>
+      <link>https://lehnerpoing.github.io/kontakt/</link>
+      <pubDate>Sun, 06 Jan 2019 07:50:55 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/kontakt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speisekarte</title>
+      <link>https://lehnerpoing.github.io/speisekarte/</link>
+      <pubDate>Sun, 06 Jan 2019 07:50:34 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/speisekarte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zimmer</title>
+      <link>https://lehnerpoing.github.io/zimmer/</link>
+      <pubDate>Sun, 06 Jan 2019 07:50:12 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/zimmer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Veranstaltungen</title>
+      <link>https://lehnerpoing.github.io/veranstaltungen/</link>
+      <pubDate>Sun, 06 Jan 2019 07:49:50 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/veranstaltungen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Räumlichkeiten</title>
+      <link>https://lehnerpoing.github.io/r%C3%A4umlichkeiten/</link>
+      <pubDate>Sun, 06 Jan 2019 07:49:26 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/r%C3%A4umlichkeiten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lehnerpoing.github.io/global/footer-agrar/</link>
+      <pubDate>Sat, 05 Jan 2019 16:13:49 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/global/footer-agrar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lehnerpoing.github.io/global/footer-gasthof/</link>
+      <pubDate>Sat, 05 Jan 2019 16:11:45 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/global/footer-gasthof/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lehnerpoing.github.io/global/header/</link>
+      <pubDate>Sat, 05 Jan 2019 16:08:48 +0100</pubDate>
+      
+      <guid>https://lehnerpoing.github.io/global/header/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
