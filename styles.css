@@ -23,6 +23,73 @@ h2 {
 a {
   color: #704231;
 }
+#homea h1 {
+  color: #5e7436;
+}
+#homea .intro {
+  text-align: center;
+}
+#homea #fpsec {
+  padding: 3rem 0;
+}
+#homea #fpsec .colcont {
+  background: #2a3915;
+  height: 100%;
+}
+#homea #fpsec .colcont .cont {
+  text-align: center;
+  color: white;
+  padding: 1rem;
+}
+#homea #fpsec .colcont .cont h3 {
+  margin: 0;
+}
+#homea #fpsec .colcont .cont h4 {
+  font-weight: normal;
+  margin: 0 0 2rem 0;
+}
+#homea #fpsec .mimg {
+  width: 100%;
+  height: 30vh;
+  position: relative;
+}
+#homea #fpsec h2 {
+  color: #5e7436;
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-size: 7rem;
+  text-align: center;
+  text-transform: none;
+}
+#homea #videosec {
+  padding: 3rem 0;
+}
+#homea #videosec h2 {
+  color: #5e7436;
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-size: 7rem;
+  text-align: center;
+  text-transform: none;
+}
+#homea .ll {
+  padding: 2rem 0;
+}
+#homea .ll .column > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+#homea .ll .column > div img {
+  width: 50%;
+}
+#homea .ll .column > div h2 {
+  font-size: 1.2rem;
+  text-transform: none;
+  font-weight: bold;
+}
+#bteasera {
+  min-height: 40vh;
+}
 #bteaser {
   min-height: 55vh;
   padding-top: 112px;
@@ -185,6 +252,10 @@ header .logow img {
   width: 180px;
   height: 92px;
 }
+header .logow img.logoa {
+  width: 180px;
+  height: 255px;
+}
 @media (max-width: 720px) {
   header .logow {
     padding-top: 5rem;
@@ -208,6 +279,21 @@ footer #logofooter {
 }
 footer #logofooter img {
   width: 250px;
+}
+footer.agrar {
+  background: #5e7436;
+}
+footer.agrar .column {
+  border-right: 1px solid white;
+}
+footer.agrar .column:last-child {
+  border: none!important;
+}
+footer.agrar .column.al {
+  text-align: center;
+}
+footer.agrar .footeralogo {
+  width: 50%;
 }
 footer .column {
   padding: 2rem 2rem 0 2rem!important;
@@ -243,6 +329,22 @@ footer .footermenu {
 footer .footermenu a {
   color: white!important;
   line-height: 1.5em;
+}
+.lbuttona {
+  box-shadow: none;
+  border: none;
+  padding: 0.5rem 1rem;
+  color: white;
+  background: #2a3915;
+  text-transform: uppercase;
+  line-height: 1.5rem;
+  display: inline-block;
+  font-size: 1rem;
+  margin: 1rem;
+}
+.lbuttona:hover {
+  background: #5e7436;
+  color: white;
 }
 .lbutton {
   box-shadow: none;

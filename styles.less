@@ -34,7 +34,75 @@ h2{
 a{
   color:@brown_light;
 }
-
+#homea{
+  h1{
+    color:@green;
+  }
+  .intro{
+    text-align:center;
+  }
+  #fpsec{
+    padding:3rem 0;
+    .colcont{
+      background:@green_dark;
+      height:100%;
+      .cont{
+        text-align:center;
+        color:white;
+        padding:1rem;
+        h3{
+          margin:0;
+        }
+        h4{
+          font-weight:normal;
+          margin:0 0 2rem 0;
+        }
+      }
+    }
+    .mimg{
+      width:100%;
+      height:30vh;
+      position:relative;
+    }
+    h2{
+      color:@green;
+      font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif!important;
+      font-size:7rem;
+      text-align:center;
+      text-transform:none;
+    }
+  }
+  #videosec{
+    padding:3rem 0;
+    h2{
+      color:@green;
+      font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif!important;
+      font-size:7rem;
+      text-align:center;
+      text-transform:none;
+    }
+  }
+  .ll{
+    padding:2rem 0;
+    .column>div{
+      display:flex;
+      flex-direction:column;
+      justify-content:flex-start;
+      align-items:center;
+      img{
+        width:50%;
+      }
+      h2{
+        font-size:1.2rem;
+        text-transform:none;
+        font-weight:bold;
+      }
+    }
+  }
+}
+#bteasera{
+  min-height:40vh;
+}
 #bteaser{
   min-height:55vh;
   padding-top:112px;
@@ -181,6 +249,10 @@ header{
       width:180px;
       height:92px;
     }
+    img.logoa{
+      width:180px;
+      height:255px;
+    }
     @media (max-width: 720px){
       padding-top:5rem;
     }
@@ -202,6 +274,21 @@ footer{
   }
   display:block;
   background:@brown_dark;
+  &.agrar{
+    background:@green;
+    .column{
+      border-right:1px solid white;
+      &:last-child{
+        border:none!important;
+      }
+      &.al{
+        text-align:center;
+      }
+    }
+    .footeralogo{
+      width:50%
+    }
+  }
   padding:5rem 0 2rem;
   color:white;
   .column{
@@ -240,6 +327,22 @@ footer{
 }
 .subpage{
   
+}
+.lbuttona{
+  box-shadow:none;
+  border:none;
+  padding:0.5rem 1rem;
+  color:white;
+  background:@green_dark;
+  text-transform:uppercase;
+  line-height:1.5rem;
+  display:inline-block;
+  font-size:1rem;
+  margin:1rem;
+  &:hover{
+    background:@green;
+    color:white;
+  }
 }
 .lbutton{
   box-shadow:none;
