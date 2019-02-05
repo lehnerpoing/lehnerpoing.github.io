@@ -7,6 +7,7 @@
 @h2:rgb(43,22,13);
 @green:rgb(94,116,54);
 @green_dark:rgb(42,57,21);
+@green_dark_transp:rgba(94,116,54,0.9);
 @fontcolor:rgb(43,22,13);
 
 body{
@@ -33,6 +34,66 @@ h2{
 }
 a{
   color:@brown_light;
+}
+#reserv{
+  
+}
+#rm{
+  h1{
+    color:@brown_light;
+    text-align:center;
+    @media (max-width: 768px){
+      font-size:6rem;
+      margin-bottom:1rem!important;
+    }
+  }
+  .intro{
+    text-align:center;
+    h1{
+      margin-bottom:0;
+    }
+    h2{
+      margin:-3rem 0 1rem 0;
+    }
+  }
+  #rmb{
+    padding:3rem 0 3rem 0;
+    margin-top:2rem;
+    .column{
+      padding:0!important;
+    }
+    .cont{
+      padding:2rem 3rem;
+      min-height:350px;
+      img{
+        display:none;
+      }
+      @media (max-width: 768px){
+        min-height:auto;
+        padding:1rem;
+        img{
+          width:100%;
+          display:block;
+        }
+      }
+      background:rgba(255,255,255,0.9);
+      h3{
+        text-transform:uppercase;
+        font-size:1.6rem;
+        margin-bottom:2rem;
+        font-weight:normal;
+      }
+      .sp{
+        margin:2rem 0 1rem 0;
+        text-transform: uppercase;
+        color:@brown_light;
+        font-size:1.3rem;
+      }
+    }
+    .rms{
+      margin:0 0 3rem 0!important;
+    }
+  }
 }
 #homea{
   h1{
@@ -212,6 +273,11 @@ header{
       opacity: 1;
       @media (max-width: 1280px){
         background:@brown_dark_transp;
+      }
+    }
+    &.agrar.mobvis{
+      @media (max-width: 1280px){
+        background:@green_dark_transp;
       }
     }
     @media (max-width: 1280px){
