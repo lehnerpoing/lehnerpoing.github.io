@@ -23,6 +23,40 @@ h2 {
 a {
   color: #704231;
 }
+#reserv {
+  padding: 2rem 0;
+}
+@media (max-width: 768px) {
+  #reserv {
+    background-position: 20% center!important;
+    padding: 2rem 0 4rem 0;
+  }
+}
+#reserv h2 {
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  color: #704231;
+  font-size: 8rem;
+  text-transform: none;
+  text-align: center;
+  margin: 0;
+}
+@media (max-width: 768px) {
+  #reserv h2 {
+    font-size: 6rem;
+  }
+}
+#reserv h3 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.72rem;
+  font-weight: 200;
+  margin: -4rem 0 2rem 0;
+}
+@media (max-width: 768px) {
+  #reserv h3 {
+    margin: -2rem 0 2rem 0;
+  }
+}
 #rm h1 {
   color: #704231;
   text-align: center;
