@@ -26,6 +26,11 @@ a {
 #homea h1 {
   color: #5e7436;
 }
+@media (max-width: 768px) {
+  #homea h1 {
+    font-size: 6rem;
+  }
+}
 #homea .intro {
   text-align: center;
 }
@@ -60,6 +65,11 @@ a {
   text-align: center;
   text-transform: none;
 }
+@media (max-width: 768px) {
+  #homea #fpsec h2 {
+    font-size: 5rem;
+  }
+}
 #homea #videosec {
   padding: 3rem 0;
 }
@@ -69,6 +79,11 @@ a {
   font-size: 7rem;
   text-align: center;
   text-transform: none;
+}
+@media (max-width: 768px) {
+  #homea #videosec h2 {
+    font-size: 5rem;
+  }
 }
 #homea .ll {
   padding: 2rem 0;
@@ -97,7 +112,7 @@ a {
   flex-direction: column;
   justify-content: center;
 }
-@media (max-width: 720px) {
+@media (max-width: 768px) {
   #bteaser {
     padding-top: 182px;
   }
@@ -257,6 +272,12 @@ header .logow img.logoa {
   height: 255px;
 }
 @media (max-width: 720px) {
+  header .logow img.logoa {
+    width: 120px;
+    height: 170px;
+  }
+}
+@media (max-width: 720px) {
   header .logow {
     padding-top: 5rem;
   }
@@ -279,6 +300,11 @@ footer #logofooter {
 }
 footer #logofooter img {
   width: 250px;
+}
+@media (max-width: 768px) {
+  footer .column {
+    border: none!important;
+  }
 }
 footer.agrar {
   background: #5e7436;
@@ -476,7 +502,7 @@ footer .footermenu a {
   flex-direction: column;
   justify-content: center;
 }
-@media (max-width: 720px) {
+@media (max-width: 768px) {
   #home .images .imgw .img {
     min-height: 32vw;
   }
