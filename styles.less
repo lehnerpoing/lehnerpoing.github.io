@@ -155,6 +155,37 @@ a{
     }
   }
 }
+#sp{
+  .intro{
+    text-align:center;
+  }
+  h2{
+    font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif!important;
+    font-size:6rem;
+    text-align:center;
+    text-transform:none;
+    @media (max-width: 768px){
+      font-size:5rem;
+    }
+    color:@brown_light;
+    margin:0!important;
+  }
+  .spka{
+    padding:2rem 0;
+    text-align:center;
+    ul{
+      padding:0;
+      margin:0;
+      li{
+        list-style-type: none;
+        font-size:1.4rem;
+      }
+    }
+    &:nth-child(odd){
+      background:rgba(112,66,49,0.1);
+    }
+  }
+}
 #rm{
   h1{
     color:@brown_light;
@@ -298,6 +329,10 @@ a{
   justify-content:center;
   @media (max-width: 768px){
     padding-top:182px;
+  }
+  h1{
+    text-align:center;
+    color:white;
   }
   .content{
     text-align:center;
