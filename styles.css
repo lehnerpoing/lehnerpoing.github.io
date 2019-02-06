@@ -57,6 +57,21 @@ a {
     margin: -2rem 0 2rem 0;
   }
 }
+#ab .kcontent {
+  background: rgba(112, 66, 49, 0.1);
+  height: 100%;
+  padding: 2rem 3rem;
+}
+#ab .kcontent h2 {
+  font-weight: 200;
+  font-size: 1.6rem;
+}
+#ab .kt {
+  margin: 2rem 0 0 0 !important;
+}
+#ab .kt .column {
+  padding: 0!important;
+}
 #ab #imgs {
   padding: 3rem 0;
 }
