@@ -57,6 +57,25 @@ a {
     margin: -2rem 0 2rem 0;
   }
 }
+#ab #imgs {
+  padding: 3rem 0;
+}
+#ab #imgs .galimg {
+  width: 100%;
+  padding: 100% 0 0 0;
+}
+#ab #imgs h2 {
+  color: #704231;
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-size: 7rem;
+  text-align: center;
+  text-transform: none;
+}
+@media (max-width: 768px) {
+  #ab #imgs h2 {
+    font-size: 5rem;
+  }
+}
 #ab #hist {
   background: rgba(112, 66, 49, 0.1);
   padding: 22vh 0 0 0;
@@ -91,7 +110,7 @@ a {
 }
 @media (max-width: 768px) {
   #ab h1 {
-    font-size: 6rem;
+    font-size: 4rem;
     margin-bottom: 1rem!important;
   }
 }
@@ -104,11 +123,21 @@ a {
 #ab .intro h2 {
   margin: -3rem 0 1rem 0;
 }
+@media (max-width: 768px) {
+  #ab .intro h2 {
+    margin: 0 !important;
+  }
+}
 #ab .intro .txt2 {
   columns: 2;
   text-align: justify;
   column-gap: 2rem;
   margin: 2rem 0;
+}
+@media (max-width: 768px) {
+  #ab .intro .txt2 {
+    columns: 1;
+  }
 }
 #rm h1 {
   color: #704231;
