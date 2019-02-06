@@ -121,6 +121,10 @@ a {
 #ab .kt .column {
   padding: 0!important;
 }
+#ab .vaimgs {
+  background: rgba(112, 66, 49, 0.1);
+  padding-bottom: 2rem;
+}
 #ab #imgs {
   padding: 3rem 0;
 }
@@ -669,6 +673,17 @@ footer .footermenu {
 footer .footermenu a {
   color: white!important;
   line-height: 1.5em;
+}
+.subpage {
+  padding: 0 0 4rem 0;
+}
+.subpage h1 {
+  text-align: center;
+}
+@media (max-width: 768px) {
+  .subpage h1 {
+    font-size: 5rem;
+  }
 }
 .lbuttona {
   box-shadow: none;
