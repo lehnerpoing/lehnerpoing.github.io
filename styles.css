@@ -203,6 +203,19 @@ a {
     columns: 1;
   }
 }
+#ab .intro .contv {
+  padding: 2rem 0;
+}
+#ab .intro .contv .column {
+  text-align: left;
+}
+#ab .intro .contv .column ul {
+  margin: 0;
+  padding: 0 0 0 1em;
+}
+#ab .intro .contv .column ul li {
+  list-style-type: circle;
+}
 @media (max-width: 768px) {
   #sp h1 {
     font-size: 6rem;
