@@ -59,7 +59,7 @@ a {
 }
 #ab .kcontent {
   background: rgba(112, 66, 49, 0.1);
-  height: 100%;
+  height: 100%!important;
   padding: 2rem 3rem;
 }
 #ab .kcontent h2 {
