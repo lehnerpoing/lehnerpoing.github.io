@@ -23,6 +23,55 @@ h2 {
 a {
   color: #704231;
 }
+#akt {
+  padding: 8rem 0 8rem 0;
+}
+#akt.sp {
+  background-color: rgba(112, 66, 49, 0.1) !important;
+  padding: 3rem 0 4rem 0!important;
+}
+@media (max-width: 768px) {
+  #akt {
+    background-size: 30vw!important;
+    background-position: -5% 20% !important;
+  }
+}
+#akt ul.gr {
+  padding: 0;
+  margin: 2rem 0;
+}
+#akt ul.gr li {
+  list-style-type: none;
+  margin-bottom: 1rem;
+}
+#akt ul.gr li h4 {
+  text-transform: none;
+  letter-spacing: 0.1rem;
+  margin: 0;
+  font-weight: 200;
+  font-size: 1.5rem;
+}
+#akt ul.gr li .dat {
+  font-style: italic;
+}
+#akt h2 {
+  color: #704231;
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  text-transform: none;
+  text-align: center;
+  font-size: 7rem;
+  line-height: 7rem;
+  margin: 0;
+}
+#akt h3 {
+  text-align: center;
+  font-weight: 200;
+  margin: -2rem 0 3rem 0;
+  text-transform: uppercase;
+}
+#akt .buttons {
+  text-align: right;
+}
 #reserv {
   padding: 2rem 0;
 }
@@ -154,6 +203,11 @@ a {
     columns: 1;
   }
 }
+@media (max-width: 768px) {
+  #sp h1 {
+    font-size: 6rem;
+  }
+}
 #sp .intro {
   text-align: center;
 }
@@ -178,12 +232,29 @@ a {
   padding: 0;
   margin: 0;
 }
+@media (max-width: 768px) {
+  #sp .spka ul {
+    padding: 0 1rem;
+  }
+}
 #sp .spka ul li {
   list-style-type: none;
   font-size: 1.4rem;
 }
+@media (max-width: 768px) {
+  #sp .spka ul li {
+    list-style-type: circle;
+    text-align: left;
+    font-size: 1.2rem;
+  }
+}
 #sp .spka:nth-child(odd) {
   background: rgba(112, 66, 49, 0.1);
+}
+@media (max-width: 768px) {
+  #sp .spka .container {
+    background-image: none!important;
+  }
 }
 #rm h1 {
   color: #704231;
@@ -647,51 +718,6 @@ footer .footermenu a {
 }
 #home .intro h2 {
   margin: -2rem 0 1rem 0;
-}
-#home #akt {
-  padding: 8rem 0 8rem 0;
-}
-@media (max-width: 768px) {
-  #home #akt {
-    background-size: 30vw!important;
-    background-position: -5% 20% !important;
-  }
-}
-#home #akt ul.gr {
-  padding: 0;
-  margin: 2rem 0;
-}
-#home #akt ul.gr li {
-  list-style-type: none;
-  margin-bottom: 1rem;
-}
-#home #akt ul.gr li h4 {
-  text-transform: none;
-  letter-spacing: 0.1rem;
-  margin: 0;
-  font-weight: 200;
-  font-size: 1.5rem;
-}
-#home #akt ul.gr li .dat {
-  font-style: italic;
-}
-#home #akt h2 {
-  color: #704231;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
-  text-transform: none;
-  text-align: center;
-  font-size: 7rem;
-  line-height: 7rem;
-  margin: 0;
-}
-#home #akt h3 {
-  text-align: center;
-  font-weight: 200;
-  margin: -2rem 0 3rem 0;
-  text-transform: uppercase;
-}
-#home #akt .buttons {
-  text-align: right;
 }
 #home #zi {
   padding: 2rem 0;

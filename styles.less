@@ -35,6 +35,53 @@ h2{
 a{
   color:@brown_light;
 }
+#akt{
+  &.sp{
+    background-color:rgba(112,66,49,0.1)!important;
+    padding:3rem 0 4rem 0!important;
+  }
+  @media (max-width: 768px){
+    background-size: 30vw!important;
+    background-position: -5% 20%!important;
+  }
+  padding:8rem 0 8rem 0;
+  ul.gr{
+    padding:0;
+    margin:2rem 0;
+    li{
+      list-style-type: none;
+      h4{
+        text-transform:none;
+        letter-spacing:0.1rem;
+        margin:0;
+        font-weight:200;
+        font-size:1.5rem;
+      }
+      .dat{
+        font-style:italic;
+      }
+      margin-bottom:1rem;
+    }
+  }
+  h2{
+    color:@brown_light;
+    font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif!important;
+    text-transform:none;
+    text-align:center;
+    font-size:7rem;
+    line-height:7rem;
+    margin:0;
+  }
+  h3{
+    text-align:center;
+    font-weight:200;
+    margin:-2rem 0 3rem 0;
+    text-transform:uppercase;
+  }
+  .buttons{
+    text-align:right;
+  }
+}
 #reserv{
   padding:2rem 0;
   @media (max-width: 768px){
@@ -156,6 +203,11 @@ a{
   }
 }
 #sp{
+  @media (max-width: 768px){
+    h1{
+      font-size:6rem;
+    }
+  }
   .intro{
     text-align:center;
   }
@@ -176,13 +228,26 @@ a{
     ul{
       padding:0;
       margin:0;
+      @media (max-width: 768px){
+        padding:0 1rem;
+      }
       li{
         list-style-type: none;
         font-size:1.4rem;
+        @media (max-width: 768px){
+          list-style-type: circle;
+          text-align:left;
+          font-size:1.2rem;
+        }
       }
     }
     &:nth-child(odd){
       background:rgba(112,66,49,0.1);
+    }
+    @media (max-width: 768px){
+      .container{
+        background-image: none!important;
+      }
     }
   }
 }
@@ -627,49 +692,7 @@ footer{
       margin:-2rem 0 1rem 0;
     }
   }
-  #akt{
-    @media (max-width: 768px){
-      background-size: 30vw!important;
-      background-position: -5% 20%!important;
-    }
-    padding:8rem 0 8rem 0;
-    ul.gr{
-      padding:0;
-      margin:2rem 0;
-      li{
-        list-style-type: none;
-        h4{
-          text-transform:none;
-          letter-spacing:0.1rem;
-          margin:0;
-          font-weight:200;
-          font-size:1.5rem;
-        }
-        .dat{
-          font-style:italic;
-        }
-        margin-bottom:1rem;
-      }
-    }
-    h2{
-      color:@brown_light;
-      font-family: 'HerrVonMuellerhoff W05 Regular',Arial, Helvetica, sans-serif!important;
-      text-transform:none;
-      text-align:center;
-      font-size:7rem;
-      line-height:7rem;
-      margin:0;
-    }
-    h3{
-      text-align:center;
-      font-weight:200;
-      margin:-2rem 0 3rem 0;
-      text-transform:uppercase;
-    }
-    .buttons{
-      text-align:right;
-    }
-  }
+  
   #zi{
     padding:2rem 0;
     h2{
