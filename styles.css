@@ -728,7 +728,8 @@ footer .footermenu a {
   line-height: 1.5rem;
   display: inline-block;
   font-size: 1rem;
-  margin: 1rem auto;
+  margin: 1rem;
+  text-decoration: none;
 }
 .lbutton2:hover {
   background: #44271f;
