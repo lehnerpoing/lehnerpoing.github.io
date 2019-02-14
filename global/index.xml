@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Globals on Lehner</title>
-    <link>https://lehnerpoing.github.io/global/</link>
+    <link>https://lehner-poign.de/global/</link>
     <description>Recent content in Globals on Lehner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sat, 05 Jan 2019 16:13:49 +0100</lastBuildDate>
     
-	<atom:link href="https://lehnerpoing.github.io/global/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lehner-poign.de/global/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://lehnerpoing.github.io/global/footer-agrar/</link>
+      <link>https://lehner-poign.de/global/footer-agrar/</link>
       <pubDate>Sat, 05 Jan 2019 16:13:49 +0100</pubDate>
       
-      <guid>https://lehnerpoing.github.io/global/footer-agrar/</guid>
+      <guid>https://lehner-poign.de/global/footer-agrar/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lehnerpoing.github.io/global/footer-gasthof/</link>
+      <link>https://lehner-poign.de/global/footer-gasthof/</link>
       <pubDate>Sat, 05 Jan 2019 16:11:45 +0100</pubDate>
       
-      <guid>https://lehnerpoing.github.io/global/footer-gasthof/</guid>
+      <guid>https://lehner-poign.de/global/footer-gasthof/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://lehnerpoing.github.io/global/header/</link>
+      <link>https://lehner-poign.de/global/header/</link>
       <pubDate>Sat, 05 Jan 2019 16:08:48 +0100</pubDate>
       
-      <guid>https://lehnerpoing.github.io/global/header/</guid>
+      <guid>https://lehner-poign.de/global/header/</guid>
       <description></description>
     </item>
     
