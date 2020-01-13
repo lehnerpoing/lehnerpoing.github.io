@@ -11,7 +11,7 @@ h1 {
   color: #704231;
   font-size: 9rem;
   line-height: 1em;
-  margin: 2rem 0 0 0!important;
+  margin: 2rem 0 0 0 !important;
   font-weight: 200;
 }
 h2 {
@@ -28,11 +28,11 @@ a {
 }
 #akt.sp {
   background-color: rgba(112, 66, 49, 0.1) !important;
-  padding: 3rem 0 4rem 0!important;
+  padding: 3rem 0 4rem 0 !important;
 }
 @media (max-width: 768px) {
   #akt {
-    background-size: 30vw!important;
+    background-size: 30vw !important;
     background-position: -5% 20% !important;
   }
 }
@@ -77,7 +77,7 @@ a {
 }
 @media (max-width: 768px) {
   #reserv {
-    background-position: 20% center!important;
+    background-position: 20% center !important;
     padding: 2rem 0 4rem 0;
   }
 }
@@ -108,7 +108,7 @@ a {
 }
 #ab .kcontent {
   background: rgba(112, 66, 49, 0.1);
-  height: 100%!important;
+  height: 100% !important;
   padding: 2rem 3rem;
 }
 #ab .kcontent h2 {
@@ -119,7 +119,7 @@ a {
   margin: 2rem 0 0 0 !important;
 }
 #ab .kt .column {
-  padding: 0!important;
+  padding: 0 !important;
 }
 #ab .vaimgs {
   background: rgba(112, 66, 49, 0.1);
@@ -150,7 +150,7 @@ a {
 }
 #ab #hist #histentr {
   width: 80%;
-  margin: auto!important;
+  margin: auto !important;
 }
 #ab #hist #histentr .title {
   font-weight: bold;
@@ -179,7 +179,7 @@ a {
 @media (max-width: 768px) {
   #ab h1 {
     font-size: 4rem;
-    margin-bottom: 1rem!important;
+    margin-bottom: 1rem !important;
   }
 }
 #ab .intro {
@@ -234,7 +234,7 @@ a {
   text-align: center;
   text-transform: none;
   color: #704231;
-  margin: 0!important;
+  margin: 0 !important;
 }
 @media (max-width: 768px) {
   #sp h2 {
@@ -270,7 +270,7 @@ a {
 }
 @media (max-width: 768px) {
   #sp .spka .container {
-    background-image: none!important;
+    background-image: none !important;
   }
 }
 #rm h1 {
@@ -280,7 +280,7 @@ a {
 @media (max-width: 768px) {
   #rm h1 {
     font-size: 6rem;
-    margin-bottom: 1rem!important;
+    margin-bottom: 1rem !important;
   }
 }
 #rm .intro {
@@ -297,7 +297,7 @@ a {
   margin-top: 2rem;
 }
 #rm #rmb .column {
-  padding: 0!important;
+  padding: 0 !important;
 }
 #rm #rmb .cont {
   padding: 2rem 3rem;
@@ -329,8 +329,12 @@ a {
   color: #704231;
   font-size: 1.3rem;
 }
+#rm #rmb .cont .pr {
+  color: #704231;
+  font-size: 1.3rem;
+}
 #rm #rmb .rms {
-  margin: 0 0 3rem 0!important;
+  margin: 0 0 3rem 0 !important;
 }
 #homea h1 {
   color: #5e7436;
@@ -453,7 +457,7 @@ a {
   color: white;
   background: #44271f;
   text-transform: uppercase;
-  line-height: 1.0em;
+  line-height: 1em;
 }
 header {
   position: absolute;
@@ -462,7 +466,7 @@ header {
   width: 100vw;
 }
 header i {
-  margin-right: 1rem!important;
+  margin-right: 1rem !important;
 }
 header #tel {
   color: white;
@@ -515,7 +519,7 @@ header #headermenu {
   transition-property: all;
   transition-duration: 0.6s;
   transition-timing-function: ease-in-out;
-  padding: 0!important;
+  padding: 0 !important;
 }
 header #headermenu.mobvis {
   max-height: 1000px;
@@ -542,7 +546,7 @@ header #headermenu.mobvis {
 @media (max-width: 720px) {
   header #headermenu {
     width: 100%;
-    padding: 1rem 2rem 2rem 2rem!important;
+    padding: 1rem 2rem 2rem 2rem !important;
   }
 }
 header #headermenu .headermenuitem {
@@ -621,7 +625,7 @@ footer #logofooter img {
 }
 @media (max-width: 768px) {
   footer .column {
-    border: none!important;
+    border: none !important;
   }
 }
 footer.agrar {
@@ -631,7 +635,7 @@ footer.agrar .column {
   border-right: 1px solid white;
 }
 footer.agrar .column:last-child {
-  border: none!important;
+  border: none !important;
 }
 footer.agrar .column.al {
   text-align: center;
@@ -640,11 +644,11 @@ footer.agrar .footeralogo {
   width: 50%;
 }
 footer .column {
-  padding: 2rem 2rem 0 2rem!important;
+  padding: 2rem 2rem 0 2rem !important;
   border-right: 1px solid #704231;
 }
 footer .column:last-child {
-  border: none!important;
+  border: none !important;
 }
 @media (max-width: 768px) {
   footer .column {
@@ -666,12 +670,12 @@ footer h5 {
   font-size: 1.5rem;
 }
 footer .footermenu {
-  display: flex!important;
+  display: flex !important;
   flex-direction: column;
   justify-content: flex-start;
 }
 footer .footermenu a {
-  color: white!important;
+  color: white !important;
   line-height: 1.5em;
 }
 .subpage {
@@ -736,7 +740,7 @@ footer .footermenu a {
   color: white;
 }
 .centerContent {
-  display: flex!important;
+  display: flex !important;
   justify-content: center;
 }
 #home .intro {
@@ -792,7 +796,7 @@ footer .footermenu a {
     min-height: 32vw;
   }
   #home .images .imgw .img h3 {
-    font-size: 1.4rem!important;
+    font-size: 1.4rem !important;
   }
 }
 #home .images .imgw .img h3 {
@@ -800,7 +804,7 @@ footer .footermenu a {
   color: white;
   text-transform: uppercase;
   text-align: center;
-  letter-spacing: :0.1em;
+  letter-spacing: 0.1em;
   font-size: 1.8rem;
   margin: 0;
 }
