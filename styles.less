@@ -299,6 +299,18 @@ a {
 			img {
 				display: none;
 			}
+			ul {
+				padding: 0 !important;
+				margin: 0 0 1rem 0;
+				columns: 2;
+				column-gap: 2em;
+				@media (max-width: 768px) {
+					columns: 1;
+				}
+				li {
+					margin-left: 1em !important;
+				}
+			}
 			@media (max-width: 768px) {
 				min-height: auto;
 				padding: 1rem;

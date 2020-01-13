@@ -307,6 +307,20 @@ a {
 #rm #rmb .cont img {
   display: none;
 }
+#rm #rmb .cont ul {
+  padding: 0 !important;
+  margin: 0 0 1rem 0;
+  columns: 2;
+  column-gap: 2em;
+}
+@media (max-width: 768px) {
+  #rm #rmb .cont ul {
+    columns: 1;
+  }
+}
+#rm #rmb .cont ul li {
+  margin-left: 1em !important;
+}
 @media (max-width: 768px) {
   #rm #rmb .cont {
     min-height: auto;
