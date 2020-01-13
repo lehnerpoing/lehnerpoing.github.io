@@ -106,6 +106,25 @@ a {
     margin: -2rem 0 2rem 0;
   }
 }
+#imgs {
+  padding: 3rem 0;
+}
+#imgs .galimg {
+  width: 100%;
+  padding: 100% 0 0 0;
+}
+#imgs h2 {
+  color: #704231;
+  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-size: 7rem;
+  text-align: center;
+  text-transform: none;
+}
+@media (max-width: 768px) {
+  #imgs h2 {
+    font-size: 5rem;
+  }
+}
 #ab .kcontent {
   background: rgba(112, 66, 49, 0.1);
   height: 100% !important;
@@ -124,25 +143,6 @@ a {
 #ab .vaimgs {
   background: rgba(112, 66, 49, 0.1);
   padding-bottom: 2rem;
-}
-#ab #imgs {
-  padding: 3rem 0;
-}
-#ab #imgs .galimg {
-  width: 100%;
-  padding: 100% 0 0 0;
-}
-#ab #imgs h2 {
-  color: #704231;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
-  font-size: 7rem;
-  text-align: center;
-  text-transform: none;
-}
-@media (max-width: 768px) {
-  #ab #imgs h2 {
-    font-size: 5rem;
-  }
 }
 #ab #hist {
   background: rgba(112, 66, 49, 0.1);
@@ -332,6 +332,14 @@ a {
 #rm #rmb .cont .pr {
   color: #704231;
   font-size: 1.3rem;
+  line-height: 1.1em !important;
+}
+#rm #rmb .cont .pr p {
+  margin: 0;
+}
+#rm #rmb .cont .pr em {
+  font-size: 0.9rem !important;
+  line-height: 1.1em !important;
 }
 #rm #rmb .rms {
   margin: 0 0 3rem 0 !important;
