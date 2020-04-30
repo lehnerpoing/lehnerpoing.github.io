@@ -15,6 +15,15 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
+gericht = ""
+[[aktuell.gerichte]]
+datum = ""
+gericht = "140\tRehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "150\tChampignonrahmbraten  mit Spätzle und Salatteller \t8,50 €"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "151\tChampignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = "30.04.2020"
