@@ -21,10 +21,10 @@ datum = ""
 gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
+gericht = "(134) Sauerbraten mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "139\tSchnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
+gericht = "(139) Schnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "140\tRehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
