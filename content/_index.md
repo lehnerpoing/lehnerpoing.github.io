@@ -33,7 +33,7 @@ datum = ""
 gericht = "(150) Champignonrahmbraten mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "151\tChampignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller \t8,50 €"
+gericht = "(151) Champignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller   8,50 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "152\tSchweinebrüstl\t mit Reiberknödel und Salatteller \t7,80 €"
