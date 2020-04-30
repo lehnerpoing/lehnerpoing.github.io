@@ -14,8 +14,8 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "7,80 €"
-gericht = "Schweinebraten mit Reiberknödel und Salatteller"
+datum = ""
+gericht = "131\tSchweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = "30.04.2020"
 gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
