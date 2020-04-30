@@ -27,7 +27,7 @@ datum = ""
 gericht = "(139) Schnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "140\tRehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
+gericht = "(140) Rehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "150\tChampignonrahmbraten  mit Spätzle und Salatteller \t8,50 €"
