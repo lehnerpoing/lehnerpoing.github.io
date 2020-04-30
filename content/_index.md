@@ -10,7 +10,7 @@ button_beschriftung_2 = "Zur Speisekarte"
 button_link_1 = "mailto:gasthof-lehner@gmx.de?subject=Reservierung"
 button_link_2 = "speisekarte.md"
 content = "<p>Jetzt Sonntags bieten wir Ihnen hier besondere Spezialitäten - Hausgemacht und nach Großmutters Rezept, bitte denken Sie daran zu reservieren!</p>"
-hintergrundbild = "/uploads/2019/02/02/angebot.png"
+hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
