@@ -15,6 +15,9 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "131\tSchweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = "30.04.2020"
