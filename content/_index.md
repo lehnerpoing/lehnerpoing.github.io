@@ -14,8 +14,17 @@ hintergrundbild = "/uploads/2019/02/02/angebot.png"
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
+datum = "30.04.2020"
+gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
+[[aktuell.gerichte]]
 datum = ""
-gericht = ""
+gericht = "131\tSchweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "139\tSchnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "140\tRehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
@@ -25,15 +34,6 @@ gericht = "150\tChampignonrahmbraten  mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "151\tChampignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller \t8,50 €"
-[[aktuell.gerichte]]
-datum = "30.04.2020"
-gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "131\tSchweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "152\tSchweinebrüstl\t mit Reiberknödel und Salatteller \t7,80 €"
