@@ -36,7 +36,7 @@ datum = ""
 gericht = "(151) Champignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller   8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "152\tSchweinebrüstl\t mit Reiberknödel und Salatteller \t7,80 €"
+gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller     7,80 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
