@@ -15,13 +15,19 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
+gericht = "151\tChampignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller \t8,50 €"
+[[aktuell.gerichte]]
+datum = "30.04.2020"
+gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "131\tSchweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
-datum = "30.04.2020"
-gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
+datum = ""
+gericht = "134\tSauerbraten  mit Spätzle und Salatteller \t8,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "152\tSchweinebrüstl\t mit Reiberknödel und Salatteller \t7,80 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
