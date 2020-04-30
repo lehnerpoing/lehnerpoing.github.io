@@ -1,0 +1,139 @@
+---
+label: Home
+hide_body: true
+fields:
+- type: field_group
+  label: Bild-Teaser oben
+  name: bild_teaser
+  fields:
+  - type: file
+    name: bild
+    label: Bild
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: text
+  name: titel
+  label: Titel
+- type: text
+  name: untertitel
+  label: Untertitel
+- type: textarea
+  name: intro
+  label: Intro
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group
+  name: bilder
+  label: Bilder
+  fields:
+  - type: field_group_list
+    name: bilder
+    label: Bilder
+    fields:
+    - type: text
+      name: titel
+      label: Titel
+    - type: file
+      name: bild
+      label: Bild
+  - type: text
+    name: button_beschriftung
+    label: Button Beschriftung
+  - type: select
+    name: button_link
+    config:
+      source:
+        type: pages
+        section: pages
+    label: Button Link
+- type: field_group
+  name: zimmer
+  label: Zimmer
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    name: untertitel
+    label: Untertitel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: button_beschriftung
+    label: Button Beschriftung
+  - type: select
+    name: button_link
+    config:
+      source:
+        type: pages
+        section: pages
+    label: Button Link
+  - type: file
+    name: bild
+    label: Bild
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: field_group
+  name: aktuell
+  label: Aktuell
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    name: untertitel
+    label: Untertitel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: field_group_list
+    name: gerichte
+    label: Gerichte
+    fields:
+    - type: text
+      name: gericht
+      label: Gericht
+    - type: text
+      name: datum
+      label: Datum
+  - type: text
+    name: button_beschriftung_1
+    label: Button Beschriftung 1
+  - type: text
+    name: button_link_1
+    label: Button Link 1
+  - type: text
+    name: button_beschriftung_2
+    label: Button Beschriftung 2
+  - type: select
+    name: button_link_2
+    config:
+      source:
+        type: pages
+        section: pages
+    label: Button Link 2
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/_index.md

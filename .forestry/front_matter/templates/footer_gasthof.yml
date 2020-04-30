@@ -1,0 +1,44 @@
+---
+label: Footer_Gasthof
+hide_body: false
+fields:
+- type: file
+  name: logo
+  label: Logo
+- type: field_group
+  name: footer_1
+  label: Footer 1
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group
+  name: footer_2
+  label: Footer 2
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group
+  name: footer_3
+  label: Footer 3
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+pages:
+- content/global/footer-gasthof.md

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ $.Site.LanguageCode | default " en " }}">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} | {{ . }}{{ end }}{{ end }}</title>
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="description" content="{{.Params.seo_description}}">
+  <meta name="viewport" content="width=device-width,user-scalable=no">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/lib/semantic.min.css">
+  <link rel="stylesheet" href="{{ $.Site.BaseURL }}/styles.css">
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/jquery.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/2b56d7b0-ad00-4aa4-ad78-f973091144bb.css" />
+</head>
+
+<body>
+  {{ partial "header.html" . }}
+  <main role="main">
+    {{ block "main" . }}{{ end }}
+  </main>
+  {{ partial "footer.html" . }}
+
+  <script type="text/javascript" src="{{ $.Site.BaseURL }}/lib/semantic.min.js"></script>
+  <script type="text/javascript">
+    $(function () {
+      $('.ui.embed').embed();
+      $('#mntbt').click(function () {
+        if ($('#headermenu').hasClass('mobvis')) {
+          $('#headermenu').removeClass('mobvis');
+        } else {
+          $('#headermenu').addClass('mobvis');
+        }
+
+      });
+    });
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,42 @@
+---
+label: Veranstaltungen
+hide_body: true
+fields:
+- type: text
+  name: titel
+  label: Titel
+- type: text
+  name: untertitel
+  label: Untertitel
+- type: textarea
+  name: content_links
+  label: Content links
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: textarea
+  name: content_rechts
+  label: Content rechts
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: file
+  name: titelbild
+  label: Titelbild
+- type: field_group
+  name: bilder
+  label: Bilder
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: image_gallery
+    name: bilder
+    label: Bilder
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/veranstaltungen.md

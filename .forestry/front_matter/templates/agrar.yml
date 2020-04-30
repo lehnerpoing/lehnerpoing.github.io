@@ -1,0 +1,87 @@
+---
+label: Agrar
+hide_body: true
+fields:
+- type: text
+  name: titel
+  label: Titel
+- type: textarea
+  label: Content
+  name: content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group_list
+  name: leistungen
+  label: Leistungen
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: file
+    name: icon
+    label: Icon
+  - type: textarea
+    name: text
+    label: Text
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group
+  name: anfragen
+  label: Anfragen
+  fields:
+  - type: text
+    name: beschriftung
+    label: Beschriftung
+  - type: text
+    name: link
+    label: Link
+- type: field_group
+  name: video
+  label: Video
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    label: Video
+    name: video
+    description: Vimeo-ID (nur die Zahl)
+- type: field_group
+  name: fuhrpark
+  label: Fuhrpark
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: field_group_list
+    name: maschinen
+    label: Maschinen
+    fields:
+    - type: text
+      name: titel
+      label: Titel
+    - type: text
+      name: untertitel
+      label: Untertitel
+    - type: textarea
+      name: beschreibung
+      label: Beschreibung
+      config:
+        wysiwyg: true
+        schema:
+          format: html-blocks
+    - type: file
+      name: bild
+      label: Bild
+- type: file
+  name: titelbild
+  label: Titelbild
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/lehner-agrar-lohnbetrieb.md

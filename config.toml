@@ -1,0 +1,4 @@
+baseURL = "https://lehner-poign.de"
+languageCode = "de-de"
+theme = "lehner"
+title = "Lehner"

@@ -1,0 +1,7 @@
+---
+label: seo_description
+hide_body: false
+fields:
+- type: text
+  name: seo_description
+  label: seo_description

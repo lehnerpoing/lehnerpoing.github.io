@@ -1,0 +1,71 @@
+---
+label: Raeumlichkeiten
+hide_body: true
+fields:
+- type: file
+  name: titelbild
+  label: Titelbild
+- type: text
+  name: untertitel
+  label: Untertitel
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: field_group_list
+  name: raeume
+  label: Räume
+  fields:
+  - type: text
+    label: Name
+    name: name
+  - type: textarea
+    name: beschreibung
+    label: Beschreibung
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: sitzplatze
+    label: Sitzplätze
+  - type: file
+    name: bild
+    label: Bild
+- type: field_group
+  name: reservierung
+  label: Reservierung
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    name: untertitel
+    label: Untertitel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: buttonbeschriftung
+    label: Buttonbeschriftung
+  - type: text
+    name: buttonlink
+    label: Buttonlink
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: file
+  name: raeume_hintergrund
+  label: Räume Hintergrund
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/räumlichkeiten.md

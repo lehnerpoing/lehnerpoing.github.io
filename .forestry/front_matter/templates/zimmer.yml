@@ -1,0 +1,92 @@
+---
+label: zimmer
+hide_body: true
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: content
+  label: content
+- type: text
+  name: layout
+  label: layout
+- type: file
+  name: zimmer_hintergrund
+  label: zimmer_hintergrund
+- type: text
+  name: seo_description
+  label: seo_description
+- type: file
+  name: titelbild
+  label: titelbild
+- type: text
+  name: title
+  label: title
+- type: text
+  name: untertitel
+  label: untertitel
+- type: field_group
+  name: reservierung
+  label: reservierung
+  fields:
+  - type: text
+    name: buttonbeschriftung
+    label: buttonbeschriftung
+  - type: text
+    name: buttonlink
+    label: buttonlink
+  - type: textarea
+    name: content
+    label: content
+  - type: file
+    name: hintergrundbild
+    label: hintergrundbild
+  - type: text
+    name: titel
+    label: titel
+  - type: text
+    name: untertitel
+    label: untertitel
+- type: field_group_list
+  name: raeume
+  label: raeume
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: bild
+    label: bild
+  - type: textarea
+    name: beschreibung
+    label: beschreibung
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - name: preis
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
+    label: Preis Zimmer
+- name: bildergalerie_
+  type: field_group
+  config: {}
+  fields:
+  - name: titel_galerie
+    type: text
+    config:
+      required: false
+    label: titel_Galerie
+  - name: bilder
+    type: image_gallery
+    config: {}
+    label: bilder
+  label: 'Bildergalerie '
+pages:
+- content/zimmer.md

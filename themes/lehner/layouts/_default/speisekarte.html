@@ -1,0 +1,52 @@
+{{ define "main" }}
+{{ $h := .Site.GetPage "_index.md" }}
+<div id="sp">
+  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+    <h1>{{.Params.title}}</h1>
+  </div>
+  <div id="spk">
+    {{range .Params.abschnitte}}
+    <div class="spka">
+      {{with .bild}}
+      <div class="ui container" style="background:url({{partial "imgUrl" (dict "img" . "params" "f_auto" )}}) right bottom no-repeat; background-size:200px auto;">
+        {{else}}
+        <div class="ui container">
+          {{end}}
+
+          <h2>{{.titel}}</h2>
+          {{.content|safeHTML}}
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+  <div id="akt" class="sp" style="background:url({{partial "imgUrl" (dict "img" $h.Params.aktuell.hintergrundbild "params" "f_auto" )}}) left 5rem no-repeat; background-size:contain;">
+    <div class="ui container">
+      <h2>{{$h.Params.aktuell.titel}}</h2>
+      <h3>{{$h.Params.aktuell.untertitel}}</h3>
+      <div class="ui grid stackable">
+        <div class="ui four wide column"></div>
+        <div class="ui eight wide column">
+          {{$h.Params.aktuell.content|safeHTML}}
+          <ul class="gr">
+            {{range $h.Params.aktuell.gerichte}}
+            <li>
+              <h4>{{.gericht}}</h4>
+              <div class="dat">{{.datum}}</div>
+            </li>
+            {{end}}
+          </ul>
+        </div>
+        <div class="ui four wide column buttons">
+          <a class="lbutton" href="{{.Params.aktuell.button_link_1}}">
+            {{$h.Params.aktuell.button_beschriftung_1}}
+          </a>
+          <a class="lbutton2" href="/{{.Params.aktuell.button_link_2}}">
+            {{$h.Params.aktuell.button_beschriftung_2}}</a>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

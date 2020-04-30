@@ -1,0 +1,55 @@
+---
+label: about
+hide_body: true
+fields:
+- type: file
+  label: titelbild
+  name: titelbild
+- type: text
+  name: titel
+  label: Titel
+- type: text
+  name: untertitel
+  label: Untertitel
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: file
+  name: bild
+  label: Bild
+- type: field_group_list
+  name: historie
+  label: Historie
+  fields:
+  - type: text
+    name: jahr
+    label: Jahr
+  - type: text
+    label: Titel
+    name: titel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+- type: field_group
+  name: bilder
+  label: Bilder
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: image_gallery
+    name: bilder
+    label: Bilder
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/über-uns.md

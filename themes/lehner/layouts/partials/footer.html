@@ -1,0 +1,44 @@
+{{ $t := .Site.GetPage "footer-gasthof.md" }}
+{{ $ta := .Site.GetPage "footer-agrar.md" }}
+<footer class=" {{if .IsHome}}home{{end}} {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}agrar{{end}}">
+  <div id="logofooter">
+    {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}
+    {{else}}
+    <img src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+    {{end}}
+  </div>
+  <div class="ui container">
+    <div class="ui equal width grid stackable">
+      <div class="column">
+        {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}
+        <h5>{{$ta.Params.footer_1.titel}}</h5>
+        {{$ta.Params.footer_1.content|safeHTML}}
+        {{else}}
+        <h5>{{$t.Params.footer_1.titel}}</h5>
+        {{$t.Params.footer_1.content|safeHTML}}
+        {{end}}
+
+      </div>
+      <div class="column al">
+        {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}
+        <img class="footeralogo" src="{{partial "imgUrl" (dict "img" $ta.Params.logo "params" "f_auto" )}}" />
+        {{else}}
+        <h5>{{$t.Params.footer_2.titel}}</h5>
+        {{$t.Params.footer_2.content|safeHTML}}
+        {{end}}
+
+      </div>
+      <div class="column">
+        <h5>{{$t.Params.footer_3.titel}}</h5>
+        <div class="footermenu">
+          {{ range .Site.Menus.main }}
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{end}}
+          {{ range .Site.Menus.footer }}
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

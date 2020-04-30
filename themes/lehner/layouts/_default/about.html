@@ -1,0 +1,41 @@
+{{ define "main" }}
+<div id="ab">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+    <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
+  </div>
+  <div class="ui container intro">
+    <h1>{{.Params.titel}}</h1>
+    <h2>{{.Params.untertitel}}</h2>
+    <div class="txt2">
+      {{.Params.content | safeHTML}}
+    </div>
+  </div>
+  <div class="ui container centered" style="display:flex;justify-content:center;">
+    <div id="mimg">
+      <img src="{{partial "imgUrl" (dict "img" .Params.bild "params" "c_scale,f_auto,w_2000" )}}" />
+    </div>
+  </div>
+  <div id="hist">
+    <div class="ui container" style="text-align:center;">
+      <div id="histentr" class="ui four column grid centered doubling">
+        {{range .Params.historie}}
+        <div class="column">
+          <h3>{{.jahr}}</h3>
+          <div class="title">{{.titel}}</div>
+          <div class="txt">{{.content|safeHTML}}</div>
+        </div>
+        {{end}}
+      </div>
+    </div>
+  </div>
+  <div id="imgs" class="ui container">
+    <h2>{{.Params.bilder.titel}}</h2>
+    <div class="ui four column grid doubling">
+      {{range .Params.bilder.bilder}}
+      <div class="column">
+        <div class="galimg" style="background:url({{partial "imgUrl" (dict "img" . "params" "c_scale,f_auto,w_500" )}}) center center no-repeat; background-size:cover;"></div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</div> {{ end }}

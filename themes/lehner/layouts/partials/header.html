@@ -1,0 +1,28 @@
+{{ $t := .Site.GetPage "header.md" }} {{ $currentPage := . }}
+<header>
+  <a href="/" id="logolink">
+    <div class="logow">
+      {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}
+      <img class="logoa" src="{{partial "imgUrl" (dict "img" $t.Params.logo_agrar "params" "f_auto" )}}" />
+      {{else}}
+      <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+      {{end}}
+    </div>
+  </a>
+  <div id="headermenuw">
+    <div id="headermenu" class="mobinit {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}agrar{{end}}">
+      {{ range .Site.Menus.main }}
+      <a class="headermenuitem {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
+        href="{{ .URL }}" title="{{ .Title }}">{{ .Name|safeHTML }}</a>
+      {{ end }}
+    </div>
+  </div>
+  <div id="mnt">
+    <button id="mntbt">
+      <i class="bars icon"></i>{{$t.Params.beschriftung_navi}}
+    </button>
+  </div>
+  <div id="tel">
+    <i class="phone icon"></i>{{$t.Params.telefon}}
+  </div>
+</header>

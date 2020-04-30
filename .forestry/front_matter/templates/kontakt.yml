@@ -1,0 +1,54 @@
+---
+label: Kontakt
+hide_body: true
+fields:
+- type: text
+  name: titel
+  label: Titel
+- type: text
+  name: untertitel
+  label: Untertitel
+- type: file
+  name: titelbild
+  label: Titelbild
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
+- type: text
+  name: karte
+  label: Karte
+- type: field_group
+  name: reservierung
+  label: Reservierung
+  fields:
+  - type: text
+    name: titel
+    label: Titel
+  - type: text
+    name: untertitel
+    label: Untertitel
+  - type: textarea
+    name: content
+    label: Content
+    config:
+      wysiwyg: true
+      schema:
+        format: html-blocks
+  - type: text
+    name: buttonbeschriftung
+    label: Buttonbeschriftung
+  - type: text
+    name: buttonlink
+    label: Buttonlink
+  - type: file
+    name: hintergrundbild
+    label: Hintergrundbild
+- type: text
+  name: seo_description
+  label: seo_description
+pages:
+- content/kontakt.md

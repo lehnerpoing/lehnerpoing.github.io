@@ -1,0 +1,21 @@
+---
+label: default
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: draft
+  label: Draft
+  type: boolean
+  hidden: false
+  default: false
+- type: text
+  name: seo_description
+  label: SEO Description
+pages:
+- content/datenschutz.md
+- content/haftungsausschluss.md
+- content/impressum.md
