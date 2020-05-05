@@ -14,6 +14,9 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
+datum = ""
+gericht = "(145) Spannferkelrollbraten mit Reiberknödel und Salatteller       8,50 €"
+[[aktuell.gerichte]]
 datum = "05.05.2020"
 gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
