@@ -15,7 +15,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = "05.05.2020"
-gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis Samstag 17:00 Uhr vorbestellen!"
+gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis spätestens Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(119) Käsespätzle mit Salatteller           6,50 €"
@@ -48,7 +48,7 @@ datum = ""
 gericht = "(155) Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller     9,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "fürn Kaffee dahoam kennts a hausgemachte Rumbombe oder an Frankfurter Kranz (je 2,40 €) mitnehma"
+gericht = "Fürn Kaffee dahoam kennts a hausgemachte Rumbombe oder an Frankfurter Kranz (je 2,40 €) mitnehma."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
