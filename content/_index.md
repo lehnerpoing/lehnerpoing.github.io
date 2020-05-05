@@ -14,9 +14,6 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "(145) Spannferkelrollbraten mit Reiberknödel und Salatteller       8,50 €"
-[[aktuell.gerichte]]
 datum = "05.05.2020"
 gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
@@ -33,16 +30,25 @@ datum = ""
 gericht = "(139) Schnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(140) Rehbraten in Wildrahmsoße  mit hausgemachten Spätzle und Salatteller \t9,80 €"
+gericht = "(140) Rehbraten in Wildrahmsoße mit Spätzle und Salatteller \t9,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(145) Spannferkelrollbraten mit Reiberknödel und Salatteller       8,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(146) Schweinemedaillions in Champignonsoße mit Spätzel und Salatteller       9,80 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(150) Champignonrahmbraten mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(151) Champignonrahmschnitzel  mit hausgemachten Spätzle und Salatteller   8,50 €"
+gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller   7,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller     7,80 €"
+gericht = "(155) Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller     9,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "fürn Kaffee dahoam kennts a hausgemachte Rumbombe oder an Frankfurter Kranz (je 2,40 €) mitnehma"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
