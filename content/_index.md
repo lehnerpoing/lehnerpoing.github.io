@@ -18,6 +18,9 @@ datum = "05.05.2020"
 gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "(119) Käsespätzle mit Salatteller           6,50 €"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = ""
