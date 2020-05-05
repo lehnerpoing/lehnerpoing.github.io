@@ -14,8 +14,8 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "30.04.2020"
-gericht = "Auch bei uns können Sie ab Sonntag, den 03.05.2020 Speisen abholen! Bitte vorbestellen!"
+datum = "05.05.2020"
+gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
