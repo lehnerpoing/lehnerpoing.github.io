@@ -14,8 +14,8 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "05.05.2020"
-gericht = "Auch bei uns können Sie diesen Sonntag, den 10.05.2020 Speisen abholen! Bitte bis spätestens Samstag 17:00 Uhr vorbestellen!"
+datum = "12.05.2020"
+gericht = "Auch bei uns können Sie diesen Sonntag, den 17.05.2020 Speisen abholen! Bitte bis spätestens Samstag 17:00 Uhr vorbestellen!"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(119) Käsespätzle mit Salatteller           6,50 €"
@@ -24,19 +24,13 @@ datum = ""
 gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "(132) Wildschweinbraten in Wildrahmsoße mit Reiberknödel und Salatteller \t9,80 €"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "(134) Sauerbraten mit Spätzle und Salatteller \t8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(139) Schnitzel (Wiener Art)  mit Pommes frites und Salatteller \t8,40 €"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "(140) Rehbraten in Wildrahmsoße mit Spätzle und Salatteller \t9,80 €"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "(145) Spannferkelrollbraten mit Reiberknödel und Salatteller       8,50 €"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "(146) Schweinemedaillions in Champignonsoße mit Spätzel und Salatteller       9,80 €"
+gericht = "(139) Schnitzel (Wiener Art) mit Pommes Fries und Salatteller \t8,40 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(150) Champignonrahmbraten mit Spätzle und Salatteller \t8,50 €"
@@ -45,10 +39,7 @@ datum = ""
 gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller   7,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(155) Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller     9,80 €"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Fürn Kaffee dahoam kennts a hausgemachte Rumbombe oder an Frankfurter Kranz (je 2,40 €) mitnehma."
+gericht = "(155) Schweinemedaillions in Pfefferrahmsoße mit Spätzle und Salatteller     9,80 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
