@@ -27,7 +27,7 @@ datum = ""
 gericht = "(134)  Sauerbraten mit Spätzle und Salatteller   8,50 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(164) Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller 9,80 €"
+gericht = "(146) Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller 9,80 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(150)  Champignonrahmbraten mit Spätzle und Salatteller 8,50 €"
