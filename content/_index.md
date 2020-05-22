@@ -24,7 +24,7 @@ datum = ""
 gericht = "(132) Wildschweinbraten in Wildrahmsoße mit Semmelknödel und Salatteller  9,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(139) Schnitzel (Wiener Art) mit Pommes Fries und Salatteller \t8,40 €"
+gericht = "(134)  Sauerbraten mit Spätzle und Salatteller   8,50 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(151) Champignonrahmschnitzel mit Spätzle und Salatteller 9,50 €"
