@@ -14,9 +14,6 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = "17.05.2020"
-gericht = "VATERTAG! Wir sind dieses Jahr für euch da! Hier unsere Gerichte für Mittag zum Abholen. (Bitte bis spätestens Mittwoch 17:00 Uhr bestellen!) Auch unser Biergarten hat für Sie ab 11 Uhr geöffnet. "
-[[aktuell.gerichte]]
 datum = ""
 gericht = "(119) Käsespätzle mit Salatteller           6,50 €"
 [[aktuell.gerichte]]
@@ -24,7 +21,7 @@ datum = ""
 gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(137) Cordon bleu mit Pommes frites und Salatteller \t9,90 €"
+gericht = "(132) Wildschweinbraten in Wildrahmsoße mit Semmelknödel und Salatteller  9,80 €"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "(139) Schnitzel (Wiener Art) mit Pommes Fries und Salatteller \t8,40 €"
