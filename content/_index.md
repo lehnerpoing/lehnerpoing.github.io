@@ -30,6 +30,9 @@ datum = ""
 gericht = "(164) Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller 9,80 €"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "Champignonrahmbraten mit Spätzle und Salatteller 8,50 €"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller   7,80 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
