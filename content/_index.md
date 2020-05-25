@@ -15,25 +15,34 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(119) Käsespätzle mit Salatteller           6,50 €"
+gericht = "Unsere Gericht für Pfingstsonntag! Bitte bis spätestens Samstag um 17:00 Uhr vorbestellen. "
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(131) Schweinebraten  mit Reiberknödel und Salatteller \t\t7,80 €"
+gericht = "(129) Pfannkuchensuppe 3,20 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(132) Wildschweinbraten in Wildrahmsoße mit Semmelknödel und Salatteller  9,80 €"
+gericht = "(119) Käsespätzle mit Salatteller 6,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(134)  Sauerbraten mit Spätzle und Salatteller   8,50 €"
+gericht = "(131) Schweinebraten mit Reiberknödel und Salatteller 8,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(146) Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller 9,80 €"
+gericht = "(133) Gemischter Braten mit Reiberknödel und Salatteller 10,20 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(150)  Champignonrahmbraten mit Spätzle und Salatteller 8,50 €"
+gericht = "(134)  Sauerbraten mit Spätzle und Salatteller   9,80 €"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller   7,80 €"
+gericht = "(139) Schnitzel (Wiener Art) mit Pommes Frites und Salatteller 9,40 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(146) Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller 10,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(150)  Champignonrahmbraten mit Spätzle und Salatteller 9,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller   8,80 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
