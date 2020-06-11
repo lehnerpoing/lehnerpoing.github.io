@@ -15,7 +15,40 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Die Speisekarte für den kommenden Sonntag, 14.06.2020 folgt demnächst. "
+gericht = "(128) Spargelsuppe 3,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(119) Käsespätzle mit Salatteller 6,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(131) Schweinebraten mit Reiberknödel und Salatteller 8,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(132) Wildschweinbraten in Wildrahmsoße mit Spätzle und Salatteller 11,20 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(133) Gemischter Braten mit Reiberknödel und Salatteller 10,20 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(134) Sauerbraten mit Spätzle und Salatteller 9,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(139) Schnitzel (Wiener Art) mit Pommes Frites und Salatteller 9,40 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(150) Champignonrahmbraten mit Spätzle und Salatteller 9,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(151) Champignonrahmschnitzel mit Spätzle und Salatteller 9,50 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(152) Schweinebrüstl mit Reiberknödel und Salatteller 8,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(155) Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller 10,80 €"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "(377) Spargel mit Salzkartoffeln und kleinem paniertem Schnitzel, Sauce Hollandaise und Salatteller 11,50 €"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
