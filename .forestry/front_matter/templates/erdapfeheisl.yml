@@ -41,15 +41,5 @@ fields:
     - type: text
       name: titel
       label: titel
-- type: field_group_list
-  name: leistungen
-  label: leistungen
-  fields:
-  - type: file
-    name: icon
-    label: icon
-  - type: text
-    name: titel
-    label: titel
 pages:
 - content/Erdaepfelhaus.md
