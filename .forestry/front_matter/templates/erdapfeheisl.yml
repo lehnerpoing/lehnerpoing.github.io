@@ -25,16 +25,6 @@ fields:
   name: title
   label: title
 - type: field_group
-  name: anfragen
-  label: anfragen
-  fields:
-  - type: text
-    name: beschriftung
-    label: beschriftung
-  - type: text
-    name: link
-    label: link
-- type: field_group
   name: fuhrpark
   label: fuhrpark
   fields:
