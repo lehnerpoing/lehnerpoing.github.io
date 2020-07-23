@@ -13,6 +13,9 @@ link = ""
 [fuhrpark]
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
+bild = "/uploads/2020/07/23/kartofflen.jpg"
+titel = "Kartofflen"
+[[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/nudeln.jpg"
 titel = "Nudeln & Co."
 [[fuhrpark.maschinen]]
