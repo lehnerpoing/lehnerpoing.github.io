@@ -32,6 +32,9 @@ beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
 titel = "Speck"
 untertitel = ""
+[menu.main]
+name = "Erdapfeheisl"
+weight = 9
 [video]
 titel = ""
 video = nil
