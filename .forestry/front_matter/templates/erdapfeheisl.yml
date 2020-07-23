@@ -26,27 +26,21 @@ fields:
   label: title
 - type: field_group
   name: fuhrpark
-  label: fuhrpark
+  label: galerie
   fields:
   - type: text
     name: titel
     label: titel
   - type: field_group_list
     name: maschinen
-    label: maschinen
+    label: bilder
     fields:
-    - type: textarea
-      name: beschreibung
-      label: beschreibung
     - type: file
       name: bild
       label: bild
     - type: text
       name: titel
       label: titel
-    - type: text
-      name: untertitel
-      label: untertitel
 - type: field_group_list
   name: leistungen
   label: leistungen
