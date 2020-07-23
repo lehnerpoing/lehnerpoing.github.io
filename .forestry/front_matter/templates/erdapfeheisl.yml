@@ -1,0 +1,78 @@
+---
+label: Erdäpfeheisl
+hide_body: true
+fields:
+- type: textarea
+  name: content
+  label: content
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: layout
+  label: layout
+- type: textarea
+  name: seo_description
+  label: seo_description
+- type: text
+  name: titel
+  label: titel
+- type: file
+  name: titelbild
+  label: titelbild
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: anfragen
+  label: anfragen
+  fields:
+  - type: text
+    name: beschriftung
+    label: beschriftung
+  - type: text
+    name: link
+    label: link
+- type: field_group
+  name: fuhrpark
+  label: fuhrpark
+  fields:
+  - type: text
+    name: titel
+    label: titel
+  - type: field_group_list
+    name: maschinen
+    label: maschinen
+    fields:
+    - type: textarea
+      name: beschreibung
+      label: beschreibung
+    - type: file
+      name: bild
+      label: bild
+    - type: text
+      name: titel
+      label: titel
+    - type: text
+      name: untertitel
+      label: untertitel
+- type: field_group
+  name: video
+  label: video
+  fields:
+  - type: text
+    name: titel
+    label: titel
+  - type: number
+    name: video
+    label: video
+- type: field_group_list
+  name: leistungen
+  label: leistungen
+  fields:
+  - type: file
+    name: icon
+    label: icon
+  - type: text
+    name: titel
+    label: titel
