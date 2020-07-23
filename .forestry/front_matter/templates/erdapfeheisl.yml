@@ -2,24 +2,21 @@
 label: Erdäpfeheisl
 hide_body: true
 fields:
+- type: file
+  name: titelbild
+  label: titelbild
+- type: text
+  name: titel
+  label: titel
 - type: textarea
   name: content
   label: content
-- type: datetime
-  name: date
-  label: date
 - type: text
   name: layout
   label: layout
 - type: textarea
   name: seo_description
   label: seo_description
-- type: text
-  name: titel
-  label: titel
-- type: file
-  name: titelbild
-  label: titelbild
 - type: text
   name: title
   label: title
@@ -56,16 +53,6 @@ fields:
     - type: text
       name: untertitel
       label: untertitel
-- type: field_group
-  name: video
-  label: video
-  fields:
-  - type: text
-    name: titel
-    label: titel
-  - type: number
-    name: video
-    label: video
 - type: field_group_list
   name: leistungen
   label: leistungen
