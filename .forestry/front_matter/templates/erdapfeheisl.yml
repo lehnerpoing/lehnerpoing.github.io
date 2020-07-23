@@ -11,6 +11,10 @@ fields:
 - type: textarea
   name: content
   label: content
+  config:
+    wysiwyg: true
+    schema:
+      format: html-blocks
 - type: text
   name: layout
   label: layout
