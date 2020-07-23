@@ -13,6 +13,9 @@ link = ""
 [fuhrpark]
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
+bild = "/uploads/2020/07/23/honig.jpg"
+titel = "Honig, Eier und masken"
+[[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/kartofflen.jpg"
 titel = "Kartofflen"
 [[fuhrpark.maschinen]]
