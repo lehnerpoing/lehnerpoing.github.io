@@ -1,7 +1,6 @@
 +++
 content = ""
 date = ""
-draft = true
 layout = ""
 leistungen = []
 seo_description = ""
