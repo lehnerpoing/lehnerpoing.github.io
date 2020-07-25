@@ -35,8 +35,5 @@ untertitel = ""
 [menu.main]
 name = "Erdapfeheisl"
 weight = 9
-[video]
-titel = ""
-video = nil
 
 +++
