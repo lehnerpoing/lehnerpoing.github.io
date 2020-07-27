@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div id="homea">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+    <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
+  </div>
+  <div class="ui container intro eh">
+    <h1>{{.Params.titel}}</h1>
+    {{.Params.content | safeHTML}}
+  </div>
+  <div class="ui container ll">
+    <div class="ui three column centered grid doubling">
+      {{range .Params.leistungen}}
+      <div class="column">
+        <div>
+          <img src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,f_auto,w_600" )}}" />
+          <h2>{{.titel}}</h2>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+  <div id="fpsec" class="ui container">
+    <h2>{{.Params.fuhrpark.titel}}</h2>
+    <div class="ui three column centered grid stackable">
+      {{range .Params.fuhrpark.maschinen}}
+      <div class="column">
+        <div class="colcont">
+          <div class="mimg" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_400" )}}) center top no-repeat; background-size:cover;"></div>
+          <div class="cont">
+            <h3>{{.titel}}</h3>
+            <h4>{{.untertitel}}</h4>
+            <div>{{.beschreibung|safeHTML}}</div>
+          </div>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</div>
+{{ end }}

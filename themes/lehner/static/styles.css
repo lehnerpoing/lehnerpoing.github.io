@@ -1,13 +1,13 @@
 body {
-  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif, serif;
+  font-family: "Abadi MT W01 Regular1564185", Arial, Helvetica, sans-serif, serif;
   color: #2b160d;
   background: white;
 }
 body *:not(i) {
-  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif;
+  font-family: "Abadi MT W01 Regular1564185", Arial, Helvetica, sans-serif;
 }
 h1 {
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   color: #704231;
   font-size: 9rem;
   line-height: 1em;
@@ -15,7 +15,7 @@ h1 {
   font-weight: 200;
 }
 h2 {
-  font-family: 'Abadi MT W01 Regular1564185', Arial, Helvetica, sans-serif, serif;
+  font-family: "Abadi MT W01 Regular1564185", Arial, Helvetica, sans-serif, serif;
   color: #2b160d;
   font-weight: 200;
   text-transform: uppercase;
@@ -56,7 +56,7 @@ a {
 }
 #akt h2 {
   color: #704231;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   text-transform: none;
   text-align: center;
   font-size: 7rem;
@@ -82,7 +82,7 @@ a {
   }
 }
 #reserv h2 {
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   color: #704231;
   font-size: 8rem;
   text-transform: none;
@@ -115,7 +115,7 @@ a {
 }
 #imgs h2 {
   color: #704231;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   font-size: 7rem;
   text-align: center;
   text-transform: none;
@@ -157,7 +157,7 @@ a {
   font-size: 1.1rem;
 }
 #ab #hist #histentr h3 {
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   color: #704231;
   font-size: 5rem;
   font-weight: 200;
@@ -220,6 +220,18 @@ a {
 #ab .intro .contv .column ul li {
   list-style-type: circle;
 }
+.eh ul {
+  columns: 4;
+  column-gap: 2rem;
+}
+@media (max-width: 768px) {
+  .eh ul {
+    columns: 1;
+  }
+}
+.eh ul li {
+  text-align: left;
+}
 @media (max-width: 768px) {
   #sp h1 {
     font-size: 6rem;
@@ -229,7 +241,7 @@ a {
   text-align: center;
 }
 #sp h2 {
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   font-size: 6rem;
   text-align: center;
   text-transform: none;
@@ -395,7 +407,7 @@ a {
 }
 #homea #fpsec h2 {
   color: #5e7436;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   font-size: 7rem;
   text-align: center;
   text-transform: none;
@@ -410,7 +422,7 @@ a {
 }
 #homea #videosec h2 {
   color: #5e7436;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   font-size: 7rem;
   text-align: center;
   text-transform: none;
@@ -466,7 +478,7 @@ a {
   text-transform: none;
   font-size: 6rem;
   font-weight: 200;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
 }
 @media (max-width: 768px) {
   #bteaser .content strong {
@@ -779,7 +791,7 @@ footer .footermenu a {
 }
 #home #zi h2 {
   color: #704231;
-  font-family: 'HerrVonMuellerhoff W05 Regular', Arial, Helvetica, sans-serif !important;
+  font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   text-transform: none;
   text-align: center;
   font-size: 7rem;
