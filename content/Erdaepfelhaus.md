@@ -14,7 +14,7 @@ link = ""
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/honig.jpg"
-titel = "Honig, Käse, Eier und selbstgenähte Produkte"
+titel = "Honig, Käse, Eier und selbstgemachter Fruchtaufstrich"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/kartofflen.jpg"
 titel = "Kartoffeln, Zwiebeln und Rapsöl"
