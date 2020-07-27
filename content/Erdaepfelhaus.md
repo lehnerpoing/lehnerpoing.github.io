@@ -33,7 +33,7 @@ bild = "/uploads/2020/07/23/spreck.jpeg"
 titel = "Geräuchertes"
 untertitel = ""
 [menu.main]
-name = "Erdapfeheisl"
+name = "Erdäpfeheisl"
 weight = 9
 
 +++
