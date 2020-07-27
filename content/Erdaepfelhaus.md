@@ -1,5 +1,5 @@
 +++
-content = "<p>In unserem Erdäpfeheisl finden Sie 24h / 7 Tage die Woche regionale Produkte direkt vom Bauern:</p><ul><li><p>Kartoffeln</p></li><li><p>Käse</p></li><li><p>Eier</p></li><li><p>Nudeln</p></li><li><p>Honig</p></li><li><p>Zwiebeln</p></li><li><p>Rapsöl</p></li><li><p>Geräucherter Speck</p></li><li><p>Saisongemüse (z. B. Zucchini, Gurken, usw)<br></p></li></ul>"
+content = "<p>In unserem Erdäpfeheisl finden Sie 24h / 7 Tage die Woche regionale Produkte direkt vom Bauern:</p><ul><li><p>Kartoffeln</p></li><li><p>Käse</p></li><li><p>Eier</p></li><li><p>Nudeln</p></li><li><p>Honig</p></li><li><p>Zwiebeln</p></li><li><p>Rapsöl</p></li><li><p>Geräucherter Speck</p></li><li><p>Saisongemüse (z. B. Zucchini, Gurken, usw)</p></li></ul>"
 date = ""
 layout = "agrar"
 leistungen = []
