@@ -1,5 +1,5 @@
 +++
-content = "<p>In unserem Erdäpfeheisl finden Sie 24h / 7 Tage die Woche regionale Produkte direkt vom Bauern:</p><ul><li><p>Kartoffeln</p></li><li><p>Käse</p></li><li><p>Eier</p></li><li><p>Nudeln</p></li><li><p>Honig</p></li><li><p>Zwiebeln</p></li><li><p>Rapsöl</p></li><li><p>Geräucherter Speck</p></li><li><p>Saisongemüse (z. B. Zucchini, Gurken, usw)</p></li></ul>"
+content = "<p>In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern:</p><ul><li><p>Kartoffeln</p></li><li><p>Käse</p></li><li><p>Eier</p></li><li><p>Nudeln</p></li><li><p>Honig</p></li><li><p>Zwiebeln</p></li><li><p>Rapsöl</p></li><li><p>Geräucherter Speck</p></li><li><p>Saisongemüse (z. B. Zucchini, Gurken, usw.)</p></li></ul>"
 date = ""
 layout = "erdaepfel"
 leistungen = []
@@ -14,23 +14,23 @@ link = ""
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/honig.jpg"
-titel = "Honig, Eier und masken"
+titel = "Honig, Käse, Eier und selbstgenähte Produkte"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/kartofflen.jpg"
-titel = "Kartofflen"
+titel = "Kartoffeln, Zwiebeln und Rapsöl"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/nudeln.jpg"
-titel = "Nudeln & Co."
+titel = "Nudeln (auch Dinkelnudeln)"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/innen.jpg"
 titel = "Innen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/haus.jpg"
-titel = "Erdäpfelhaus"
+titel = "Erdäpfelheisl"
 [[fuhrpark.maschinen]]
 beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
-titel = "Speck"
+titel = "Geräuchertes"
 untertitel = ""
 [menu.main]
 name = "Erdapfeheisl"
