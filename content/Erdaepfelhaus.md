@@ -5,7 +5,7 @@ layout = "agrar"
 leistungen = []
 seo_description = "In unserem Erdäpfeheisl finden Sie 24h / 7 Tage die Woche regionale Produkte:"
 titel = "Erdäpfeheisl"
-titelbild = "/uploads/2020/07/23/top-heisl.jpg"
+titelbild = "/uploads/2020/07/27/top-erdapfel_270720.jpg"
 title = ""
 [anfragen]
 beschriftung = ""
