@@ -135,5 +135,59 @@ fields:
 - type: text
   name: seo_description
   label: seo_description
+- name: agrar_heisl
+  type: field_group
+  config: {}
+  fields:
+  - name: titelzeile
+    type: text
+    config:
+      required: false
+    label: Titelzeile
+  - name: bilder
+    type: field_group_list
+    fields:
+    - name: bild
+      type: file
+      config:
+        maxSize: 64
+      label: Bild
+    - name: titel
+      type: text
+      config:
+        required: false
+      label: Titel
+    - name: beschreibung
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Beschreibung
+    - name: buttonbeschriftung
+      type: text
+      config:
+        required: false
+      label: buttonbeschriftung
+    - name: buttonlink
+      type: select
+      default: []
+      config:
+        required: false
+        options: []
+        source:
+          type: simple
+          section: 
+          file: 
+          path: 
+      label: buttonlink
+    config:
+      min: 
+      max: 
+      labelField: 
+    label: bilder
+  label: Agrar_heisl
 pages:
 - content/_index.md
