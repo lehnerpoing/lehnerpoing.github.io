@@ -10,7 +10,7 @@ titelzeile = "Und mehr"
 beschreibung = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Kartoffeln, Zwiebeln, Gemüse, Eier und mehr"
 bild = "/uploads/2020/07/30/schild2.jpg"
 buttonbeschriftung = "Birgits Eräpfelheisl"
-buttonlink = ""
+buttonlink = "Erdaepfelhaus.md"
 titel = "Birgit`s Erdäpfeheisl"
 [aktuell]
 button_beschriftung_1 = "Tisch reservieren"
