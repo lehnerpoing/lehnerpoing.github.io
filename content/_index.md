@@ -4,6 +4,14 @@ intro = "<p>Unser Gasthof ist ruhig und idyllisch mitten im Grünen gelegen. In 
 seo_description = "Gasthof Lehner in Poign/Pentling - Gasthof, Zimmer und Biergarten, nur 15 Mintuen nach Regensburg, viele Parkplätze und Spielplatz. Traditionelle bayrische Gerichte in gemütlichem Ambiente "
 titel = "Lehner"
 untertitel = "Gasthof, Zimmer und Biergarten"
+[agrar_heisl]
+titelzeile = "Und mehr"
+[[agrar_heisl.bilder]]
+beschreibung = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Kartoffeln, Zwiebeln, Gemüse, Eier und mehr"
+bild = "/uploads/2020/07/30/schild2.jpg"
+buttonbeschriftung = "Birgits Eräpfelheisl"
+buttonlink = ""
+titel = "Birgit`s Erdäpfeheisl"
 [aktuell]
 button_beschriftung_1 = "Tisch reservieren"
 button_beschriftung_2 = "Zur Speisekarte"
