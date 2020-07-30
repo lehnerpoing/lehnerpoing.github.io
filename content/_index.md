@@ -7,6 +7,12 @@ untertitel = "Gasthof, Zimmer und Biergarten"
 [agrar_heisl]
 titelzeile = "Und mehr"
 [[agrar_heisl.bilder]]
+beschreibung = "Von der Bodenbearbeitung bis zur Ernte – flexible Einsatzzeiten und ein leistungsfähiger, moderner Maschinenpark steht Ihnen im Raum Landshut, Straubing, Kelheim, Abensberg und Regensburg zur Verfügung. Die landwirtschaftlichen Leistungen können Sie entweder nur für Teilbereiche oder im Ganzen beauftragen."
+bild = "/uploads/2019/02/04/duengerstreuer.png"
+buttonbeschriftung = "zum Lohnbetrieb"
+buttonlink = "lehner-agrar-lohnbetrieb.md"
+titel = "Agrar - Lohnbetrieb"
+[[agrar_heisl.bilder]]
 beschreibung = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Kartoffeln, Zwiebeln, Gemüse, Eier und mehr"
 bild = "/uploads/2020/07/30/schild2.jpg"
 buttonbeschriftung = "weiterlesen"
