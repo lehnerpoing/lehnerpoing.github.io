@@ -28,8 +28,8 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Am Sonntag (02.08.2020) sind wir wieder für euch da! Kemmt's vorbei! Mia gfrein uns!"
+datum = "12./13./14.09.2020"
+gericht = "Nächstes Wochenende haben wir unseren \"Hauskirchweih\". Samstag ab 17:30 Uhr Rehragout-Essen. Sonntag ab 11:00 Uhr Mittagstisch und hausgemachte Küchl. Montag ab 18:00 Uhr Nachkirchweih.  "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
