@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wir suchen für unser Gasthof eine Aushilfsbedienung meist für Sonntags. Bedienst du gerne oder hast du Lust es zu lernen, dann bist du bei uns richtig! Melde dich einfach, wir freuen uns!"
+gericht = "Wir suchen für unseren Gasthof eine Aushilfsbedienung (meistens Sonntags). Bedienst du gerne oder hast du Lust es zu lernen, dann bist du bei uns richtig! Melde dich einfach, wir freuen uns!"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
