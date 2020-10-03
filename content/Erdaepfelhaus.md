@@ -32,8 +32,5 @@ beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
 titel = "Geräuchertes"
 untertitel = ""
-[menu.main]
-name = "Erdaepfeheisl"
-weight = 9
 
 +++
