@@ -32,28 +32,34 @@ datum = ""
 gericht = "Wir bieten Ihnen wieder unseren Abholservice für Sonntag, den 15.11.2020 an. Bitte bestellen Sie bis Samstag (spätestens 16 Uhr) telefonisch oder per Mail. "
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller"
+gericht = "Käsespätzle mit Salatteller"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
+gericht = "1/4 Ente mit Reiberknödel und Salatteller"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Sauerbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+gericht = "Spannferkelrollbraten mit Reiberknödel und Salatteller"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Schweinebraten mit Reiberknödel und Salatteller"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Käsespätzle mit Salatteller"
+gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Sauerbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
