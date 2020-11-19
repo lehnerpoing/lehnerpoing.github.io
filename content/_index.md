@@ -35,7 +35,7 @@ datum = ""
 gericht = "Käsespätzle mit Salatteller"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "1/4 Ente mit Reiberknödel und Salatteller"
+gericht = "Entenbrustfilet mit Reiberknödel und Salatteller"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Spannferkelrollbraten mit Reiberknödel und Salatteller"
