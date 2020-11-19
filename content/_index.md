@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wir bieten Ihnen wieder unseren Abholservice für Sonntag, den 15.11.2020 an. Bitte bestellen Sie bis Samstag (spätestens 16 Uhr) telefonisch oder per Mail. "
+gericht = "Wir bieten Ihnen wieder unseren Abholservice für Sonntag, den 22.11.2020 an. Bitte bestellen Sie bis Samstag (spätestens 16 Uhr) telefonisch oder per Mail. "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Käsespätzle mit Salatteller"
