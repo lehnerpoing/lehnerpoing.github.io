@@ -29,7 +29,37 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am Sonntag, den 29.11.2020 hat unser Gasthof geschlossen. Wir bieten an dem Sonntag auch keinen Abholservice an."
+gericht = "Auch diesen Sonntag, den 06.12.2020 können Sie bei uns Essen abholen. Außerdem bieten wir Ihnen noch selbstgemachte Plätzchen zum Mitnehmen an. Auch diese bitte vorbestellen. "
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Käsespätzle mit Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "1/4 Ente mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schweinebraten mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schweinebrüstl mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Champignonrahmbraten mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Sauerbraten mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salat"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
