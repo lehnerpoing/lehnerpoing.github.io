@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Auch diesen Sonntag, den 06.12.2020 können Sie bei uns Essen abholen. Außerdem bieten wir Ihnen noch selbstgemachte Plätzchen zum Mitnehmen an. Auch diese bitte vorbestellen. "
+gericht = "Auch diesen Sonntag, den 13.12.2020 können Sie bei uns Essen abholen. Außerdem bieten wir Ihnen noch selbstgemachte Plätzchen zum Mitnehmen an. Auch diese bitte vorbestellen. "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Käsespätzle mit Salat"
