@@ -29,13 +29,13 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Auch diesen Sonntag, den 13.12.2020 können Sie bei uns Essen abholen. Außerdem bieten wir Ihnen noch selbstgemachte Plätzchen zum Mitnehmen an. Auch diese bitte vorbestellen. "
+gericht = "Wir wünschen unseren Gästen frohe, gesegnete Weihnachten und ein gesundes neues Jahr 2021! Ihre Familie Lehner"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Auch diesen Sonntag, den 20.12.2020 können Sie bei uns Essen abholen. "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Käsespätzle mit Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "1/4 Ente mit Reiberknödel und Salat"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Schweinebraten mit Reiberknödel und Salat"
@@ -44,22 +44,28 @@ datum = ""
 gericht = "Schweinebrüstl mit Reiberknödel und Salat"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "Kalbsrahmbraten mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Gemischter Braten mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "Champignonrahmbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Sauerbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salat"
+gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
+gericht = "Cordon bleu mit Pommes Frites und Salat"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salat"
+gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salat"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
