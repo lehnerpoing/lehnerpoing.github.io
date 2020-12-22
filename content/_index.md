@@ -30,42 +30,6 @@ untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Wir wünschen unseren Gästen frohe, gesegnete Weihnachten und ein gesundes neues Jahr 2021! Ihre Familie Lehner"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Auch diesen Sonntag, den 20.12.2020 können Sie bei uns Essen abholen. "
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Käsespätzle mit Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Schweinebraten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Schweinebrüstl mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Kalbsrahmbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Gemischter Braten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Champignonrahmbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Sauerbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Cordon bleu mit Pommes Frites und Salat"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salat"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
