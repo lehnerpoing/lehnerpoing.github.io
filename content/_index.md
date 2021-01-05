@@ -31,7 +31,7 @@ untertitel = "Bayrische Spezialitäten"
 datum = ""
 gericht = "Wir wünschen unseren Gästen frohe, gesegnete Weihnachten und ein gesundes neues Jahr 2021! Ihre Familie Lehner"
 [[aktuell.gerichte]]
-datum = ""
+datum = "6,80 €"
 gericht = "Käsespätzle mit Salat"
 [[aktuell.gerichte]]
 datum = ""
