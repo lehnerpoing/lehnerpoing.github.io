@@ -29,36 +29,42 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wir wünschen unseren Gästen frohe, gesegnete Weihnachten und ein gesundes neues Jahr 2021! Ihre Familie Lehner"
+gericht = "Wir wünschen unseren Gästen ein gesundes neues Jahr 2021! Ihre Familie Lehner"
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Auch am Sonntag, den 10.01.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie Ihre Gerichte zum Abholen bis Samstag um 16 Uhr vor. "
 [[aktuell.gerichte]]
 datum = "6,80 €"
 gericht = "Käsespätzle mit Salat"
 [[aktuell.gerichte]]
-datum = ""
+datum = "8,80 €"
 gericht = "Schweinebraten mit Reiberknödel und Salat"
 [[aktuell.gerichte]]
-datum = ""
+datum = "8,80 €"
 gericht = "Schweinebrüstl mit Reiberknödel und Salat"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Gemischter Braten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = ""
+datum = "9,50 €"
 gericht = "Champignonrahmbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
-datum = ""
+datum = "9,80 €"
 gericht = "Sauerbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
+datum = "11,20 €"
+gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
-datum = ""
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "Kalbsnierenbraten mit Semmelknödel und Salat"
+[[aktuell.gerichte]]
+datum = "9,40 €"
 gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Cordon bleu mit Pommes Frites und Salat"
+datum = "9,50 €"
+gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
 [[aktuell.gerichte]]
-datum = ""
+datum = "10,80 €"
 gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salat"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
