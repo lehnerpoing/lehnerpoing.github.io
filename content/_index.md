@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am kommenden Sonntag, den 14.02.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie bis spätestens Samstag um 16 Uhr vor. "
+gericht = "Am kommenden Sonntag, den 21.02.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie bis spätestens Samstag um 16 Uhr vor. "
 [[aktuell.gerichte]]
 datum = "6,80 €"
 gericht = "Käsespätzle mit Salat"
@@ -47,10 +47,7 @@ datum = "9,80 €"
 gericht = "Sauerbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = "11,20 €"
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "11,20 €"
-gericht = "1/4 Ente mit Reiberknödel und Salat"
+gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = "9,40 €"
 gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat "
@@ -60,6 +57,9 @@ gericht = "Cordon bleu mit Pommes Frites und Salat"
 [[aktuell.gerichte]]
 datum = "10,80 €"
 gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salat"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
