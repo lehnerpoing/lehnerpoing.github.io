@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am kommenden Sonntag, den 21.02.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie bis spätestens Samstag um 16 Uhr vor. "
+gericht = "Am kommenden Sonntag, den 07.03.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie bis spätestens Samstag um 16 Uhr vor. "
 [[aktuell.gerichte]]
 datum = "6,80 €"
 gericht = "Käsespätzle mit Salat"
@@ -49,11 +49,11 @@ gericht = "Sauerbraten mit Spätzle und Salat"
 datum = "11,20 €"
 gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
 datum = "9,40 €"
 gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat "
-[[aktuell.gerichte]]
-datum = "10,90 €"
-gericht = "Cordon bleu mit Pommes Frites und Salat"
 [[aktuell.gerichte]]
 datum = "10,80 €"
 gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salat"
