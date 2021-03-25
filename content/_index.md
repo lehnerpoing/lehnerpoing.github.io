@@ -29,37 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am kommenden Sonntag, den 21.03.2021 sind wir mit folgender Speisekarte für Sie da. Bitte bestellen Sie bis spätestens Samstag um 16 Uhr vor. "
-[[aktuell.gerichte]]
-datum = "8,60 €"
-gericht = "Gemüselasagne mit Salat"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebraten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebrüstl mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Sauerbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "11,20 €"
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "11,20 €"
-gericht = "1/4 Ente mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "9,40 €"
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat "
-[[aktuell.gerichte]]
-datum = "10,80 €"
-gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salat"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
+gericht = "Am kommenden Sonntag, den 28.03.2021 hat unser Gasthof geschlossen. Am Ostersonntag, sind wir wieder für Sie da. "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
