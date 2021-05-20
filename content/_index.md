@@ -29,10 +29,10 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am Sonntag, den 16.05.2021 sind wir wieder für euch mit folgender Speisekarte da. Bitte bis spätestens Samstag, um 16 Uhr bestellen. "
+gericht = "Am Pfingstsonntag, den 23.05.2021 sind wir wieder für euch mit folgender Speisekarte da. Bitte bis spätestens Samstag, um 16 Uhr bestellen. "
 [[aktuell.gerichte]]
-datum = "6,80 €"
-gericht = "Käsespätzle mit Salat"
+datum = "8,60 €"
+gericht = "Gemüselasagne mit Salat"
 [[aktuell.gerichte]]
 datum = "8,80 €"
 gericht = "Schweinebraten mit Reiberknödel und Salat"
@@ -43,23 +43,20 @@ gericht = "Schweinebrüstl mit Reiberknödel und Salat"
 datum = "9,50 €"
 gericht = "Champignonrahmbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
-datum = "10,20 €"
-gericht = "Gemischter Braten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
 datum = "9,80 €"
 gericht = "Sauerbraten mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = "11,20 €"
 gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel und Salat"
+[[aktuell.gerichte]]
 datum = "10,80 €"
-gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salat"
+gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = "9,40 €"
 gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmschnitzel mit Spätzle und Salat"
 [[aktuell.gerichte]]
 datum = "10,90 €"
 gericht = "Cordon bleu mit Pommes Frites und Salat"
