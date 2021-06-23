@@ -29,46 +29,10 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am kommenden Sonntag, den 20.06.2021sind wir wieder für Sie da. Entweder Sie reservieren sich einen Tisch oder Sie können das Essen auch abholen. "
+gericht = "Wir suchen für unseren Gasthof ab sofort eine Aushilfsbedienung (meist sonntags mittags oder sonntags abends, ab und zu auch wochentags)! Bedienst du gerne oder hast du Lust es zu lernen, dann bist du bei uns richtig! Melde dich einfach, wir freuen uns auf dich! "
 [[aktuell.gerichte]]
-datum = "3,20 €"
-gericht = "Pfannkuchensuppe"
-[[aktuell.gerichte]]
-datum = "6,80 €"
-gericht = "Käsespätzle mit Salat"
-[[aktuell.gerichte]]
-datum = "12,40 €"
-gericht = "Spargel mit Salzkartoffeln und kleinem panierten Schnitzel, Sauce Hollandaise und Salat"
-[[aktuell.gerichte]]
-datum = "15,50 €"
-gericht = "Schweinemedaillions mit Spargel, Salzkartoffeln, Sauce Hollandaise und Salat"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebraten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebrüstl mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "10,20 €"
-gericht = "Gemischter Braten mit Reiberknödel und Salat"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Sauerbraten mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "11,20 €"
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salat"
-[[aktuell.gerichte]]
-datum = "9,40 €"
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salat"
-[[aktuell.gerichte]]
-datum = "9,20 €"
-gericht = "Schweineschnitzel in Pfefferrahmsoße mit Pommes Frites und Salat"
-[[aktuell.gerichte]]
-datum = "10,80 €"
-gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salat"
+datum = ""
+gericht = "Am kommenden Sonntag, den 27.06.2021ist unser Gasthof geschlossen. "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
