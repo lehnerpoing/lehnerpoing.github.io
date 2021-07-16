@@ -32,7 +32,7 @@ datum = ""
 gericht = "Wir suchen für unseren Gasthof ab sofort eine Aushilfsbedienung (meist sonntags mittags oder sonntags abends, ab und zu auch wochentags)! Bedienst du gerne, dann bist du bei uns richtig! Melde dich einfach, wir freuen uns auf dich! "
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am kommenden Sonntag, den 18.07.2021sind wir wieder für euch da. "
+gericht = "Am kommenden Sonntag, den 18.07.2021 sind wir wieder für euch da. "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
