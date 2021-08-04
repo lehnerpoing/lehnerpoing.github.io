@@ -4,7 +4,7 @@ date = ""
 layout = "erdaepfel"
 leistungen = []
 seo_description = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte:"
-titel = "Erdäpfeheisl"
+titel = "Hofladen"
 titelbild = "/uploads/2020/07/30/eraepfel_top-300720.jpg"
 title = ""
 [anfragen]
