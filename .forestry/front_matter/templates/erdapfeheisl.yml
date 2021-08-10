@@ -41,5 +41,3 @@ fields:
     - type: text
       name: titel
       label: titel
-pages:
-- content/Erdaepfelhaus.md
