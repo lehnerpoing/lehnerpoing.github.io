@@ -28,8 +28,41 @@ hintergrundbild = ""
 titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
-datum = ""
-gericht = "Wir suchen für unseren Gasthof ab sofort eine Aushilfsbedienung (meist sonntags mittags oder sonntags abends, ab und zu auch wochentags)! Bedienst du gerne, dann bist du bei uns richtig! Melde dich einfach, wir freuen uns auf dich! "
+datum = "3,60 €"
+gericht = "Leberspätzlesuppe"
+[[aktuell.gerichte]]
+datum = "6,80 €"
+gericht = "Käsespätzle mit Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebraten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "Kalbsbraten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,80 €"
+gericht = "Sauerbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,40 €"
+gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmschnitzel mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "10,80 €"
+gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salatteller"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
