@@ -29,16 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Unser Hauskirchweih beginnt am Samstag, den 11.09.21, ab 17:30 Uhr mit dem Traditionellen Rehragout-Essen. "
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Sonntag, 12.09.21, ab 11:00 Uhr Mittagstisch; nachmittags hausgemachte Küche und abends ab 17:30 Uhr warme Küche"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Montag, 13.09.21 ab 18:00 Uhr Nachkirchweih"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Durch die aktuelle Situation bitten wir um frühzeitige Reservierung per Telefon oder per Mail.  "
+gericht = "Am Sonntag, den 26.09.2021 hat unser Gasthof geschlossen. "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
