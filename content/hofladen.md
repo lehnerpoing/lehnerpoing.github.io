@@ -27,7 +27,7 @@ bild = "/uploads/2020/07/23/innen.jpg"
 titel = "Innen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2020/07/23/haus.jpg"
-titel = "Erdäpfelheisl"
+titel = "Hofladen - außen"
 [[fuhrpark.maschinen]]
 beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
