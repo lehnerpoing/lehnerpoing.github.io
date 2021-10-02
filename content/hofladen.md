@@ -1,7 +1,7 @@
 +++
 aliases = ["/erdaepfeheisl"]
 content = "<p>In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern:</p><ul><li><p>Kartoffeln</p></li><li><p>Zwiebeln</p></li><li><p>Saisongemüse (z. B. Zucchini, Gurken, usw.)</p></li><li><p>Käse</p></li><li><p>eigene Eier aus Freilandhaltung</p></li><li><p>Nudeln</p></li><li><p>Honig</p></li><li><p>selbstgemachte Fruchtaufstriche</p></li><li><p>weitere hausgemachte Produkte (z. B. Sirup, Soßen, Chilli-Salz)</p></li><li><p>Rapsöl</p></li><li><p>Geräucherter Speck</p></li><li><p>Geschenkkörbe/Geschenkutensilios</p></li></ul>"
-date = ""
+date = "/uploads/2021/10/02/5a.jpg"
 layout = "erdaepfel"
 leistungen = []
 seo_description = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte:"
