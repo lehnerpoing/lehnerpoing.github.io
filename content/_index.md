@@ -13,11 +13,11 @@ buttonbeschriftung = "zum Lohnbetrieb"
 buttonlink = "lehner-agrar-lohnbetrieb.md"
 titel = "Agrar - Lohnbetrieb"
 [[agrar_heisl.bilder]]
-beschreibung = "In unserem Erdäpfeheisl finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Kartoffeln, Zwiebeln, Gemüse, Eier und mehr"
+beschreibung = "In unserem Hofladen finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Jetzt NEU: eigene Eier aus Freilandhaltung, \nKartoffeln, Zwiebeln, Nudeln und mehr"
 bild = "/uploads/2020/07/30/schild2.jpg"
 buttonbeschriftung = "weiterlesen"
 buttonlink = "hofladen.md"
-titel = "Birgit`s Erdäpfeheisl"
+titel = "Birgit`s Hofladen"
 [aktuell]
 button_beschriftung_1 = "Tisch reservieren"
 button_beschriftung_2 = "Zur Speisekarte"
