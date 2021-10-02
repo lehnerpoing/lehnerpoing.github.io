@@ -13,7 +13,7 @@ buttonbeschriftung = "zum Lohnbetrieb"
 buttonlink = "lehner-agrar-lohnbetrieb.md"
 titel = "Agrar - Lohnbetrieb"
 [[agrar_heisl.bilder]]
-beschreibung = "In unserem Hofladen finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Jetzt NEU: eigene Eier aus Freilandhaltung, \nKartoffeln, Zwiebeln, Nudeln und mehr"
+beschreibung = "In unserem Hofladen finden Sie 24 h / 7 Tage die Woche regionale Produkte direkt vom Bauern: Jetzt NEU: EIGENE EIER aus FREILANDHALTUNG, \nKartoffeln, Zwiebeln, Nudeln und mehr"
 bild = "/uploads/2021/10/02/5a.jpg"
 buttonbeschriftung = "weiterlesen"
 buttonlink = "hofladen.md"
