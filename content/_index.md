@@ -30,6 +30,48 @@ untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben. "
+[[aktuell.gerichte]]
+datum = "3,20 €"
+gericht = "Pfannkuchensuppe"
+[[aktuell.gerichte]]
+datum = "6,80 €"
+gericht = "Käsespätzle mit Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebraten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "10,20 €"
+gericht = "Gemischter Braten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,80 €"
+gericht = "Sauerbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "12,40 €"
+gericht = "Entenbrustfilet mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,40 €"
+gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Schweinerückenschnitzel mit Kroketten, Kräuterbutter, Gemüse und Salatteller"
+[[aktuell.gerichte]]
+datum = "10,80 €"
+gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "10,80 €"
+gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller"
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
