@@ -29,6 +29,42 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
+gericht = "Am 05.12.21 sind wir mit folgender Speisekarte wieder für euch da! Gerne können Sie auch Ihre Speisen abholen, bitte bestellen Sie diese dann frühzeitig vor. "
+[[aktuell.gerichte]]
+datum = "3,20 €"
+gericht = "Grießnockerlsuppe"
+[[aktuell.gerichte]]
+datum = "6,80 €"
+gericht = "Käsespätzle mit Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebraten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "8,80 €"
+gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,80 €"
+gericht = "Sauerbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "11,20 €"
+gericht = "1/4 Ente mit Reiberknödel, Blaukraut und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,40 €"
+gericht = "Schnitzel (Wiener Art) mit Pommes frites und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,50 €"
+gericht = "Champignonrahmschnitzel mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = "10,80 €"
+gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salatteller"
+[[aktuell.gerichte]]
+datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben. "
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
