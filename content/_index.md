@@ -29,10 +29,10 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am 05.12.21 sind wir mit folgender Speisekarte wieder für euch da! Gerne können Sie auch Ihre Speisen abholen, bitte bestellen Sie diese dann frühzeitig vor. "
+gericht = "Am 12.12.21 sind wir mit folgender Speisekarte wieder für euch da! Gerne können Sie auch Ihre Speisen abholen, bitte bestellen Sie diese dann frühzeitig vor. "
 [[aktuell.gerichte]]
-datum = "3,20 €"
-gericht = "Grießnockerlsuppe"
+datum = "3,60 €"
+gericht = "Leberknöderlsuppe"
 [[aktuell.gerichte]]
 datum = "6,80 €"
 gericht = "Käsespätzle mit Salatteller"
@@ -44,10 +44,13 @@ datum = "8,80 €"
 gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
 [[aktuell.gerichte]]
 datum = "9,80 €"
+gericht = "Spanferkelrollbraten mit Reiberknödel und Salatteller"
+[[aktuell.gerichte]]
+datum = "9,80 €"
 gericht = "Sauerbraten mit Spätzle und Salatteller"
 [[aktuell.gerichte]]
 datum = "11,20 €"
-gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salatteller"
+gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
 [[aktuell.gerichte]]
 datum = "9,50 €"
 gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
