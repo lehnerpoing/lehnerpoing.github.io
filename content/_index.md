@@ -32,49 +32,10 @@ datum = ""
 gericht = "Wir wünschen Ihnen ein gutes neues Jahr 2022. Bleiben Sie gesund. "
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Am 02.01.21 sind wir mit folgender Speisekarte für Sie da. Gerne können Sie Ihre Gerichte auch abholen. Bitte bestellen Sie diese dann vor. "
-[[aktuell.gerichte]]
-datum = "3,20 €"
-gericht = "Pfannkuchensuppe"
-[[aktuell.gerichte]]
-datum = "6,80 €"
-gericht = "Käsespätzle mit Salatteller"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebraten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "8,80 €"
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Spanferkelrollbraten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Sauerbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "11,20 €"
-gericht = "Wildschweinbraten in Wildrahmsoße mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,40 €"
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,90 €"
-gericht = "Cordon bleu mit Pommes Frites und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,50 €"
-gericht = "Champignonrahmschnitzel mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,80 €"
-gericht = "Schweinemedaillions in Champignonrahmsoße mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,80 €"
-gericht = "Schweinemedaillions in Pfefferrahmsoße mit Kroketten, Gemüse und Salatteller"
+gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben. "
+gericht = "Der nächste offene Sonntag ist der 06. Februar 2022."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
