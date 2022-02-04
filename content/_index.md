@@ -29,9 +29,6 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wir wünschen Ihnen ein gutes neues Jahr 2022. Bleiben Sie gesund. "
-[[aktuell.gerichte]]
-datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [[aktuell.gerichte]]
 datum = ""
