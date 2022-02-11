@@ -32,7 +32,7 @@ datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Der nächste offene Sonntag ist der 06. Februar 2022."
+gericht = "Der nächste offene Sonntag ist der 13. Februar 2022."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
