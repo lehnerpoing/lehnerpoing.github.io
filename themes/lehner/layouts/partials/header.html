@@ -2,17 +2,17 @@
 <header>
   <a href="/" id="logolink">
     <div class="logow">
-      {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}
+      {{if eq .Params.URL "/lehner-agrar-lohnbetrieb/"}}
       <img class="logoa" src="{{partial "imgUrl" (dict "img" $t.Params.logo_agrar "params" "f_auto" )}}" />
       {{else}}
-      {{if ne .URL "/erdaepfelhaus/"}}
+      {{if ne .Params.URL "/erdaepfelhaus/"}}
       <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
       {{end}}
       {{end}}
     </div>
   </a>
   <div id="headermenuw">
-    <div id="headermenu" class="mobinit {{if eq .URL "/lehner-agrar-lohnbetrieb/"}}agrar{{end}}">
+    <div id="headermenu" class="mobinit {{if eq .Params.URL "/lehner-agrar-lohnbetrieb/"}}agrar{{end}}">
       {{ range .Site.Menus.main }}
       <a class="headermenuitem {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}"
         href="{{ .URL }}" title="{{ .Title }}">{{ .Name|safeHTML }}</a>
