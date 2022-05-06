@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Unsere Speisekarte für Muttertag am 08.05.2022"
+gericht = "Unsere Speisekarte für Muttertag den 08.05.2022"
 [[aktuell.gerichte]]
 datum = "3,40"
 gericht = "Pfannkuchensuppe"
