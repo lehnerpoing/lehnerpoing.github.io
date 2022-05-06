@@ -1,6 +1,5 @@
 +++
 date = "2019-01-05T16:32:00+01:00"
-draft = true
 intro = "<p>Unser Gasthof ist ruhig und idyllisch mitten im Grünen gelegen. In nur 15 Minuten sind Sie im Stadtzentrum Regensburgs. Unser familiengeführter Gasthof besteht mittlerweile in der 4. Generation. Unser neu gestalteter gemütlicher Biergarten mit Beschattung und unser kleiner Abenteuerspielplatz laden im Sommer zum verweilen ein.</p><p>Ganz bequem können Sie bei uns direkt im Hof parken. Traditionelle bayrische Gerichte und moderner Lifestyle ergänzen sich bei uns perfekt.</p>"
 seo_description = "Gasthof Lehner in Poign/Pentling - Gasthof, Zimmer und Biergarten, nur 15 Mintuen nach Regensburg, viele Parkplätze und Spielplatz. Traditionelle bayrische Gerichte in gemütlichem Ambiente "
 titel = "Lehner"
