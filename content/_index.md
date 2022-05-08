@@ -29,52 +29,10 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Unsere Speisekarte für Muttertag den 08.05.2022"
-[[aktuell.gerichte]]
-datum = "3,40"
-gericht = "Pfannkuchensuppe"
-[[aktuell.gerichte]]
-datum = "12,90 €"
-gericht = "Spargel mit Salzkartoffeln, kleinem paniertem Schnitzel, Sauce Hollandaise und Salatteller"
-[[aktuell.gerichte]]
-datum = "12,80 €"
-gericht = "Rehbraten in Wildrahmsoße mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,50 €"
-gericht = "Sauerbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,20 €"
-gericht = "Schweinebrüstl mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,20 €"
-gericht = "Schweinebraten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,20 €"
-gericht = "Spanferkelrollbraten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "10,80 €"
-gericht = "Gemischter Braten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "11,50 €"
-gericht = "Kalbsbraten mit Reiberknödel und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Champignonrahmbraten mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "11,80 €"
-gericht = "Schweinemedaillions in Champignonsoße mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,80 €"
-gericht = "Schnitzel (Wiener Art) mit Pommes Frites und Salatteller"
-[[aktuell.gerichte]]
-datum = "9,90 €"
-gericht = "Champignonrahmschnitzel mit Spätzle und Salatteller"
-[[aktuell.gerichte]]
-datum = "7,20 €"
-gericht = "Käsespätzle mit Salatteller"
+gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
+gericht = "Der nächste geöffnete Sonntag ist der 05.06.2022."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
