@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Leider haben wir einen Coronafall in unserer Familie, deshalb ist der 03.07.2022 geschlossen und wir öffnen dafür am 17.07.2022 für euch. Bleiben Sie gesund!"
+gericht = "Wir haben diesen Sonntag, den 17.07.2022 für Sie geöffnet. "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
