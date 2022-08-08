@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Der nächste geöffnete Sonntag ist der 07.08.2022. "
+gericht = "Der nächste geöffnete Sonntag ist der 14.08.2022. "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
