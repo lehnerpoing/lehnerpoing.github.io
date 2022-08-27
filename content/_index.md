@@ -29,10 +29,13 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Der nächste geöffnete Sonntag ist der 14.08.2022. "
+gericht = "Unsere traditionelle Hauskirchweih findet vom 10.09. - 12.09.2022 statt. "
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir ab Oktober 2021 nur noch die ersten beiden Sonntage im Monat für euch offen haben."
+gericht = "Der nächste geöffnete Sonntag ist der 04.09.2022. "
+[[aktuell.gerichte]]
+datum = ""
+gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
