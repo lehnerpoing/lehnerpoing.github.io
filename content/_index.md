@@ -29,9 +29,6 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Der nächste geöffnete Sonntag ist der 04.09.2022. "
-[[aktuell.gerichte]]
-datum = ""
 gericht = "Unsere traditionelle Hauskirchweih findet vom 10.09. - 12.09.2022 statt. "
 [[aktuell.gerichte]]
 datum = ""
