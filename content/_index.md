@@ -29,7 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Unsere traditionelle Hauskirchweih findet vom 10.09. - 12.09.2022 statt. "
+gericht = "Diese Woche ist unser Gasthof geschlossen. Wir öffnen für Sie wieder am 20.09. zu den gewohnten Zeiten.  "
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben."
