@@ -29,13 +29,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Wir wünschen Ihnen eine schöne besinnliche Weihnachtszeit im Kreise ihrer Liebsten. Genießen Sie es! Außerdem alles Gute für das neue Jahr 2023!"
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Unser Gasthof hat ab 24.12. bis einschließlich 07.01. geschlossen."
-[[aktuell.gerichte]]
-datum = ""
-gericht = "Der nächste geöffnete Sonntag, ist der 08.01.2023! Wir freuen uns auf Sie!"
+gericht = "Der nächste geöffnete Sonntag, ist der 15.01.2023! Wir freuen uns auf Sie!"
 [[aktuell.gerichte]]
 datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben."
