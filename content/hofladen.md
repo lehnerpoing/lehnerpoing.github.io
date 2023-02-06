@@ -14,7 +14,61 @@ link = ""
 [fuhrpark]
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
-bild = ""
+bild = "/uploads/2023/02/06/en0a4399.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4383.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4538.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4477.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4574.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4500.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4472.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4444.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4597.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4437.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4351.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4491.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4537.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4454.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4354.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4553.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4377.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4391.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4566.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4407.jpeg"
