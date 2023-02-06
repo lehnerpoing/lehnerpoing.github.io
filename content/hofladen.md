@@ -17,7 +17,7 @@ titel = "Bildergalerie"
 bild = ""
 titel = ""
 [[fuhrpark.maschinen]]
-bild = ""
+bild = "/uploads/2023/02/06/en0a4407.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4372.jpeg"
