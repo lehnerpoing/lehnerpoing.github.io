@@ -409,6 +409,7 @@ a {
     @media (max-width: 768px) {
       font-size: 6rem;
     }
+    padding: 2rem;
   }
   .intro {
     text-align: center;
@@ -483,6 +484,21 @@ a {
 #bteasera {
   min-height: 40vh;
 }
+.sy-pager {
+  margin: 0 !important;
+  padding: 0.35rem 0 !important;
+  li {
+    &.sy-active {
+      a {
+        background: @blue!important;
+      }
+    }
+    a {
+      background: transparent !important;
+      border: 1px solid @blue;
+    }
+  }
+}
 #bteaser {
   min-height: 55vh;
   padding-top: 112px;
@@ -530,6 +546,11 @@ header {
   i {
     margin-right: 1rem !important;
   }
+  &.hofladen {
+    > * {
+      color: @green_dark!important;
+    }
+  }
   #tel {
     color: white;
     position: absolute;
@@ -556,6 +577,16 @@ header {
     left: 1rem;
     top: 1rem;
     color: white;
+
+    &.hofladen {
+      color: @green_dark!important;
+      > * {
+        color: @green_dark!important;
+      }
+      i {
+        color: @green_dark!important;
+      }
+    }
     #mntbt {
       cursor: pointer;
       box-shadow: none;
@@ -570,6 +601,15 @@ header {
     }
   }
   #headermenu {
+    &.hofladen {
+      color: @green_dark!important;
+      > * {
+        color: @green_dark!important;
+      }
+      i {
+        color: @green_dark!important;
+      }
+    }
     display: flex;
     justify-content: flex-start;
     flex-direction: column;
@@ -644,6 +684,16 @@ header {
       @media (max-width: 720px) {
         width: 120px;
         height: 170px;
+      }
+    }
+    img.logo.eh {
+      width: 300px;
+      height: auto;
+      margin-top: 10vh;
+      @media (max-width: 720px) {
+        margin-top: 0;
+        width: auto;
+        height: 30vh;
       }
     }
     @media (max-width: 720px) {

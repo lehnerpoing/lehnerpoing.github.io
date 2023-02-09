@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div id="homea">
-  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center center no-repeat; background-size:cover;">
     <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
   </div>
   <div class="ui container intro eh">
@@ -22,18 +22,25 @@
   <div id="fpsec" class="ui container">
     <h2>{{.Params.fuhrpark.titel}}</h2>
     <div class="ui three column centered grid stackable">
-      {{range .Params.fuhrpark.maschinen}}
+      {{range $x,$d := .Params.fuhrpark.maschinen}}
       <div class="column">
-        <div class="colcont">
-          <div class="mimg" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_400" )}}) center top no-repeat; background-size:cover;"></div>
-          <div class="cont">
-            <h3>{{.titel}}</h3>
-            <h4>{{.untertitel}}</h4>
-            <div>{{.beschreibung|safeHTML}}</div>
-          </div>
+        <div class="colcont imggal" >
+          <div class="mimg" data-modal="hofl" data-idx="{{$x}}" style="background:url({{partial "imgUrl" (dict "img" $d.bild "params" "c_scale,f_auto,w_400" )}}) center top no-repeat; background-size:cover;"></div>
+          
         </div>
       </div>
       {{end}}
+    </div>
+  </div>
+  <div class="ui modal small" id="modal_hofl">
+    <div class="content">
+      <ul id="gal_hofl" class="imggalslider">
+        {{range $x,$d := .Params.fuhrpark.maschinen}}
+        <li>
+          <img id="gal_{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "c_fill,h_1200,w_1200,g_auto,f_auto/c_scale,h_800" )}} " />
+        </li>
+        {{end}}
+      </ul>
     </div>
   </div>
 </div>

@@ -416,6 +416,7 @@ a {
 }
 #homea h1 {
   color: #5e7436;
+  padding: 2rem;
 }
 @media (max-width: 768px) {
   #homea h1 {
@@ -546,6 +547,9 @@ header {
 header i {
   margin-right: 1rem !important;
 }
+header.hofladen > * {
+  color: #2a3915 !important;
+}
 header #tel {
   color: white;
   position: absolute;
@@ -575,6 +579,15 @@ header #mnt {
   top: 1rem;
   color: white;
 }
+header #mnt.hofladen {
+  color: #2a3915 !important;
+}
+header #mnt.hofladen > * {
+  color: #2a3915 !important;
+}
+header #mnt.hofladen i {
+  color: #2a3915 !important;
+}
 header #mnt #mntbt {
   cursor: pointer;
   box-shadow: none;
@@ -598,6 +611,15 @@ header #headermenu {
   transition-duration: 0.6s;
   transition-timing-function: ease-in-out;
   padding: 0 !important;
+}
+header #headermenu.hofladen {
+  color: #2a3915 !important;
+}
+header #headermenu.hofladen > * {
+  color: #2a3915 !important;
+}
+header #headermenu.hofladen i {
+  color: #2a3915 !important;
 }
 header #headermenu.mobvis {
   max-height: 1000px;
@@ -675,6 +697,18 @@ header .logow img.logoa {
   header .logow img.logoa {
     width: 120px;
     height: 170px;
+  }
+}
+header .logow img.logo.eh {
+  width: 300px;
+  height: auto;
+  margin-top: 10vh;
+}
+@media (max-width: 720px) {
+  header .logow img.logo.eh {
+    margin-top: 0;
+    width: auto;
+    height: 30vh;
   }
 }
 @media (max-width: 720px) {
