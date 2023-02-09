@@ -6,7 +6,7 @@ layout = "erdaepfel"
 leistungen = []
 seo_description = "In unserem Hofladen finden Sie 24 h / 7 Tage die Woche regionale Produkte:"
 titel = "Hofladen"
-titelbild = "https://cdn.forestry.io/res2/dMxJ9gdHYqoEXuRE_vwlXJzWwYvqucRAdbIe8kYJ9HE/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDUVdseksxSkpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZjNk/Nzc5OGM5ODQyYTkw/ZDI0YmNlODdlMGUz/NGYyNjI3YTUwYWMx/Ni81YS5qcGc"
+titelbild = "/uploads/2021/10/02/5a.jpg"
 title = ""
 [anfragen]
 beschriftung = ""
