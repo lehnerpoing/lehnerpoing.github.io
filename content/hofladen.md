@@ -92,21 +92,6 @@ titel = ""
 bild = "/uploads/2023/02/06/en0a4433.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
-bild = "/uploads/2020/07/23/honig.jpg"
-titel = "Honig, Käse, Eier und selbstgemachter Fruchtaufstrich"
-[[fuhrpark.maschinen]]
-bild = "/uploads/2020/07/23/kartofflen.jpg"
-titel = "Kartoffeln, Zwiebeln und Rapsöl"
-[[fuhrpark.maschinen]]
-bild = "/uploads/2020/07/23/nudeln.jpg"
-titel = "Nudeln (auch Dinkelnudeln)"
-[[fuhrpark.maschinen]]
-bild = "/uploads/2020/07/23/innen.jpg"
-titel = "Innen"
-[[fuhrpark.maschinen]]
-bild = "/uploads/2020/07/23/haus.jpg"
-titel = "Hofladen - außen"
-[[fuhrpark.maschinen]]
 beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
 titel = "Geräuchertes"
