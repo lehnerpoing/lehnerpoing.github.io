@@ -15,12 +15,6 @@ link = ""
 [fuhrpark]
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/16/grdo4420.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/16/img_2138.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4399.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
@@ -33,7 +27,10 @@ titel = ""
 bild = "/uploads/2023/02/06/en0a4477.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4574.jpeg"
+bild = "/uploads/2023/02/16/grdo4420.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/16/img_2138.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4500.jpeg"
@@ -55,6 +52,9 @@ bild = "/uploads/2023/02/06/en0a4351.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4491.jpeg"
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4574.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/16/img_2488.jpeg"
