@@ -50,7 +50,7 @@ titel = ""
 bild = "/uploads/2023/02/06/en0a4491.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4537.jpeg"
+bild = "/uploads/2023/02/16/img_2488.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4454.jpeg"
