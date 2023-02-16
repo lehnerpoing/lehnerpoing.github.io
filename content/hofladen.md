@@ -5,6 +5,7 @@ date = "/uploads/2020/07/27/top-erdapfel_270720.jpg"
 layout = "erdaepfel"
 leistungen = []
 seo_description = "In unserem Hofladen finden Sie 24 h / 7 Tage die Woche regionale Produkte:"
+testimonials = "<p><strong>Kundenstimmen:</strong></p><blockquote><p>\"Ich kaufe regelmässig in Birgits Hofladen ein, weil ich dort gute Produkte aus regionaler Erzeugung bekomme. Bei Birgit weiß ich woher die Eier kommen und kann mich mit eigenen Augen von der guten Tierhaltung überzeugen!\" <br><em>Vera Steinhofer, Pentling</em></p></blockquote><hr><blockquote><p>\"Wer frische regionale Produkte sucht, beim Einkauf ein gutes Gefühl haben möchte und nicht jedesmal die Rückseite einer Verpackung lesen will, einfach keinen Bock auf Mainstream hat, ist hier genau richtig. Mit viel Liebe zum Detail wird Birgits Hofladen geführt. Wir kommen immer wieder gerne und freuen uns schon auf den nächsten Besuch. Weiter so!\" <br><em>Fam. Gottswinter, Pentling</em></p></blockquote>"
 titel = "Hofladen"
 titelbild = "/uploads/2023/02/10/hofladen_top.png"
 title = ""
