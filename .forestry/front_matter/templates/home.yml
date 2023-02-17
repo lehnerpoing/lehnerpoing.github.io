@@ -2,20 +2,65 @@
 label: Home
 hide_body: true
 fields:
-- type: field_group
-  label: Bild-Teaser oben
-  name: bild_teaser
+- name: homesplit
+  type: field_group_list
   fields:
-  - type: file
-    name: bild
-    label: Bild
-  - type: textarea
-    name: content
-    label: Content
+  - name: hintergrundbild
+    type: file
     config:
+      maxSize: 64
+    label: Hintergrundbild
+  - name: logo
+    type: file
+    config:
+      maxSize: 64
+    label: Logo
+  - name: button_beschriftung
+    type: text
+    config:
+      required: false
+    label: Button_Beschriftung
+  - name: link
+    type: select
+    default: []
+    config:
+      required: false
+      options: []
+      source:
+        type: pages
+        section: pages
+        file: 
+        path: 
+    label: Link
+  - name: farbe
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - agrar
+      - gasthof
+      - hofladen
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Farbe
+  - name: zusatzinfos
+    type: textarea
+    default: ''
+    config:
+      required: false
       wysiwyg: true
       schema:
         format: html-blocks
+    label: Zusatzinfos
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: HomeSplit
 - type: text
   name: titel
   label: Titel
