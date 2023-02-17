@@ -60,6 +60,13 @@ hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"
 untertitel = "Einzelzimmer, Doppelzimmer, Familienzimmer"
 [[homesplit]]
+button_beschriftung = "Gasthof Lehner"
+farbe = "gasthof"
+hintergrundbild = "/uploads/2020/01/10/Deko.jpeg"
+link = "_index.md"
+logo = "/uploads/2019/01/05/lehner_logo.png"
+zusatzinfos = "<p>Tel. 09405 - 2408</p>"
+[[homesplit]]
 button_beschriftung = "Birgits Hofladen"
 farbe = "hofladen"
 hintergrundbild = "/uploads/2023/02/16/hofladen.jpg"
