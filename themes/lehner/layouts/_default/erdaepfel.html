@@ -19,6 +19,11 @@
       {{end}}
     </div>
   </div>
+  <div class="ui container fluid vaimgs">
+    <div class="ui container" style="padding-top: 2rem;">
+      {{.Params.testimonials | safeHTML}}
+    </div>
+  </div>
   <div id="fpsec" class="ui container">
     <h2>{{.Params.fuhrpark.titel}}</h2>
     <div class="ui three column centered grid stackable">

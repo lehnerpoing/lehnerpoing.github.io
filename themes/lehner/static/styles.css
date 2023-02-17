@@ -169,6 +169,10 @@ a {
     font-size: 5rem;
   }
 }
+.vaimgs {
+  background: rgba(112, 66, 49, 0.1);
+  padding-bottom: 2rem;
+}
 #ab .kcontent {
   background: rgba(112, 66, 49, 0.1);
   height: 100% !important;
@@ -183,10 +187,6 @@ a {
 }
 #ab .kt .column {
   padding: 0 !important;
-}
-#ab .vaimgs {
-  background: rgba(112, 66, 49, 0.1);
-  padding-bottom: 2rem;
 }
 #ab #hist {
   background: rgba(112, 66, 49, 0.1);
