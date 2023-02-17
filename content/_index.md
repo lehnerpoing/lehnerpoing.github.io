@@ -59,5 +59,12 @@ content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in 
 hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"
 untertitel = "Einzelzimmer, Doppelzimmer, Familienzimmer"
+[[homesplit]]
+button_beschriftung = "Birgits Hofladen"
+farbe = "hofladen"
+hintergrundbild = "/uploads/2023/02/16/hofladen.jpg"
+link = "hofladen.md"
+logo = "/uploads/2023/02/09/logo_lehner-1.png"
+zusatzinfos = "<p>Tel. 09405 9402913<br>Mobil: 0160 8022497<br>Mail: <a href=\"mailto:birgit-lehner@gmx.de\">birgit-lehner@gmx.de</a></p>"
 
 +++
