@@ -1,10 +1,29 @@
 {{ define "main" }}
 {{$p:=.}}
 <div id="home">
-  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_teaser.bild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
-    <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
-  </div>
-  <div class="ui container intro">
+  <div id="homesplit">
+    {{range .Params.homesplit}}
+    <div class="col" style="background:url({{partial "imgUrl" (dict "img" .hintergrundbild "params" "c_scale,f_auto,w_1200" )}}) center top no-repeat; background-size:cover;">
+      <div class="inner {{.farbe}}">
+        <a href="{{relref $p .link}}">
+          <img class="logo" src="{{partial "imgUrl" (dict "img" .logo "params" "f_auto" )}}" />
+        </a>
+        <a class="button" href="{{if eq .link "_index.md"}}#homestart{{else}}{{relref $p .link}}{{end}}">
+          <i class="arrow alternate circle right outline icon"></i>{{.button_beschriftung}}
+        </a>
+        <div class="zinfo">{{.zusatzinfos|safeHTML}}</div>
+      </div>
+    </div>
+    {{end}}
+  </div> 
+  <!--
+<div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_teaser.bild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+          <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
+        </div>
+
+  -->
+  
+  <div class="ui container intro" id="homestart">
     <h1>{{.Params.titel}}</h1>
     <h2>{{.Params.untertitel}}</h2>
     {{.Params.intro | safeHTML}}

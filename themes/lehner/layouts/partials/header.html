@@ -8,7 +8,9 @@
       {{if eq .RelPermalink "/hofladen/"}}
       <img class="logo eh" src="{{partial "imgUrl" (dict "img" "/uploads/2023/02/09/logo_lehner.png" "params" "f_auto" )}}" />
       {{else}}
+      {{if ne .RelPermalink "/"}}
       <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+      {{end}}
       {{end}}
       {{end}}
     </div>
@@ -25,8 +27,5 @@
     <button id="mntbt" class="{{if eq .RelPermalink "/hofladen/"}}hofladen{{end}}">
       <i class="bars icon"></i>{{$t.Params.beschriftung_navi}}
     </button>
-  </div>
-  <div id="tel">
-    <i class="phone icon"></i>{{$t.Params.telefon}}
   </div>
 </header>
