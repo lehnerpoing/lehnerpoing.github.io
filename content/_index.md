@@ -60,6 +60,13 @@ hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"
 untertitel = "Einzelzimmer, Doppelzimmer, Familienzimmer"
 [[homesplit]]
+button_beschriftung = "Lehner Agrar"
+farbe = "agrar"
+hintergrundbild = "/uploads/2023/02/17/duengerstreuer.png"
+link = "lehner-agrar-lohnbetrieb.md"
+logo = "/uploads/2023/02/17/lehner_agrar_logo.png"
+zusatzinfos = "<p>Mail: <a href=\"mailto:lehner.andreas@freenet.de\" title=\"lehner.andreas@freenet.de\">lehner.andreas@freenet.de</a></p>"
+[[homesplit]]
 button_beschriftung = "Gasthof Lehner"
 farbe = "gasthof"
 hintergrundbild = "/uploads/2020/01/10/Deko.jpeg"
@@ -72,6 +79,6 @@ farbe = "hofladen"
 hintergrundbild = "/uploads/2023/02/16/hofladen.jpg"
 link = "hofladen.md"
 logo = "/uploads/2023/02/09/logo_lehner-1.png"
-zusatzinfos = "<p>Tel. 09405 9402913<br>Mobil: 0160 8022497<br>Mail: <a href=\"mailto:birgit-lehner@gmx.de\">birgit-lehner@gmx.de</a></p>"
+zusatzinfos = "<p>Tel. 09405 9402913<br>Mobil: 0160 8022497<br>Mail: <a href=\"mailto:birgit-lehner@gmx.de\" title=\"birgit-lehner@gmx.de\">birgit-lehner@gmx.de</a></p>"
 
 +++
