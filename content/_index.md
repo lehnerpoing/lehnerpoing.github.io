@@ -72,7 +72,7 @@ farbe = "gasthof"
 hintergrundbild = "/uploads/2020/01/10/Deko.jpeg"
 link = "_index.md"
 logo = "/uploads/2019/01/05/lehner_logo.png"
-zusatzinfos = "<p>Tel. 09405 - 2408<br>Mail: <a href=\"mailto:lehner.poign@freenet.de\" title=\"lehner.poign@freenet.de\">lehner.poign@freenet.de</a></p>"
+zusatzinfos = "<p>Tel. 09405 - 2408<br>Mail: gasthof-lehner@gmx.de</p>"
 [[homesplit]]
 button_beschriftung = "Birgits Hofladen"
 farbe = "hofladen"
