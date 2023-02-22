@@ -65,7 +65,7 @@ farbe = "agrar"
 hintergrundbild = "/uploads/2023/02/17/duengerstreuer.png"
 link = "lehner-agrar-lohnbetrieb.md"
 logo = "/uploads/2023/02/17/lehner_agrar_logo.png"
-zusatzinfos = "<p>Mail: <a href=\"mailto:lehner.andreas@freenet.de\" title=\"lehner.andreas@freenet.de\">lehner.andreas@freenet.de</a></p><p>0171 6495753</p>"
+zusatzinfos = "<p>Mobil: 0171 6495753</p><p>Mail: <a href=\"mailto:lehner.andreas@freenet.de\" title=\"lehner.andreas@freenet.de\">lehner.andreas@freenet.de</a></p>"
 [[homesplit]]
 button_beschriftung = "Gasthof Lehner"
 farbe = "gasthof"
