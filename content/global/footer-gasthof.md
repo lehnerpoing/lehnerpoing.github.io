@@ -2,7 +2,7 @@
 date = "2019-01-05T16:11:45+01:00"
 logo = "/uploads/2019/01/05/lehner_logo_dunkel.png"
 [footer_1]
-content = "<p><strong>Gasthof Lehner</strong><br>Talstraße 3, 93080 Pentling / Poign<br>Tel: 09405 2408 , Fax: 09405 5009749<br>E-Mail: <a href=\"mailto:gasthof-lehner@gmx.de\" title=\"\">gasthof-lehner@gmx.de</a></p><p></p><p></p><p><strong>Birgits Hofladen<br></strong>Talstraße 4, 93080 Pentling / Poign<br>Tel: 09405 9402913, Mobil: 0160 8022497<br>E-Mail: <a href=\"mailto:birgit-lehner@gmx.de\" title=\"\">birgit-lehner@gmx.de</a></p>"
+content = "<p><strong>Gasthof Lehner</strong><br>Talstraße 3, 93080 Pentling / Poign<br>Tel: 09405 2408 , Fax: 09405 5009749<br>E-Mail: <a href=\"mailto:gasthof-lehner@gmx.de\" title=\"\">gasthof-lehner@gmx.de</a></p>"
 titel = "Kontakt"
 [footer_2]
 content = "<ul><li><p>Montag: Ruhetag</p></li><li><p>Dienstag - Freitag: 16:30 - 23:00 Uhr</p></li><li><p>Samstag: geschlossen<br>(bei Voranmeldungen abends geöffnet, ab 20 Personen)</p></li><li><p>Sonntag: ganztägig geöffnet, ab 11:00 Uhr Mittagstisch</p></li><li><p>Feiertage geschlossen</p></li><li><p>nur noch die ersten beiden Wochenenden im Monat geöffnet</p></li></ul>"
