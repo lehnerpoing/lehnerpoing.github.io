@@ -79,7 +79,7 @@ zusatzinfos = "<p>Tel. 09405 - 2408<br>Mail: gasthof-lehner@gmx.de</p>"
 [[homesplit]]
 button_beschriftung = "Birgits Hofladen"
 farbe = "hofladen"
-hintergrundbild = "/uploads/2023/02/16/hofladen.jpg"
+hintergrundbild = "/uploads/2023/03/31/home_hofladen.jpg"
 link = "hofladen.md"
 logo = "/uploads/2023/02/09/logo_lehner-1.png"
 zusatzinfos = "<p>Tel. 09405 9402913<br>Mobil: 0160 8022497<br>Mail: <a href=\"mailto:birgit-lehner@gmx.de\" title=\"birgit-lehner@gmx.de\">birgit-lehner@gmx.de</a></p>"
