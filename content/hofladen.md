@@ -60,7 +60,7 @@ titel = ""
 bild = "/uploads/2023/03/31/photography-by-christina-54-von-82.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
-bild = ""
+bild = "/uploads/2023/03/31/photography-by-christina-73-von-82.jpeg"
 titel = ""
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/03/31/photography-by-christina-65-von-82.jpeg"
