@@ -15,92 +15,143 @@ link = ""
 [fuhrpark]
 titel = "Bildergalerie"
 [[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/16/hofladen.jpg"
+bild = "/uploads/2023/03/31/photography-by-christina-6-von-82.jpeg"
 titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = ""
+titel = ""
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/16/hofladen.jpg"
+titel = "Hofladen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4399.jpeg"
-titel = ""
+titel = "Quittenlikör"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4383.jpeg"
-titel = ""
+titel = "Hofladen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4538.jpeg"
-titel = ""
+titel = "Vera Steinhofer"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4477.jpeg"
-titel = ""
+titel = "Salze"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/16/grdo4420.jpeg"
-titel = ""
+titel = "Mobilstall "
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/16/img_2138.jpeg"
-titel = ""
+titel = "unsere Hühner"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4500.jpeg"
-titel = ""
+titel = "Gemüsewürzpaste"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4472.jpeg"
-titel = ""
+titel = "Salze"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4444.jpeg"
-titel = ""
+titel = "Nudeln mit Soße"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4597.jpeg"
-titel = ""
+titel = "Chefin vom Laden!"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4437.jpeg"
-titel = ""
+titel = "Nudeln mit Soße"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4351.jpeg"
-titel = ""
+titel = "Eingangsbereich - Weihnachten"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4491.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4574.jpeg"
-titel = ""
+titel = "Sauerkraut"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/16/img_2488.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4454.jpeg"
-titel = ""
+titel = "Mobilstall"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4354.jpeg"
-titel = ""
+titel = "Hofladen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4553.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4377.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4391.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4566.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4407.jpeg"
-titel = ""
+titel = "Hofladen"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4372.jpeg"
-titel = ""
+titel = "Hofladen"
 [[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4578.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4418.jpeg"
-titel = ""
-[[fuhrpark.maschinen]]
-bild = "/uploads/2023/02/06/en0a4392.jpeg"
-titel = ""
+bild = "/uploads/2023/02/06/en0a4454.jpeg"
+titel = "Nudeln"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4434.jpeg"
-titel = ""
+titel = "Nudeln"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4377.jpeg"
+titel = "Kartoffeln"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4407.jpeg"
+titel = "Eierlikör"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4578.jpeg"
+titel = "Eingang"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4418.jpeg"
+titel = "Fruchtaufstrich"
 [[fuhrpark.maschinen]]
 bild = "/uploads/2023/02/06/en0a4433.jpeg"
-titel = ""
+titel = "Fruchtaufstrich"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4574.jpeg"
+titel = "Weihnachtsgeschenke"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4566.jpeg"
+titel = "Weihnachtsgeschenke"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4392.jpeg"
+titel = "Weihnachtsgeschenke"
+[[fuhrpark.maschinen]]
+bild = "/uploads/2023/02/06/en0a4391.jpeg"
+titel = "Weihnachtsgeschenke"
 [[fuhrpark.maschinen]]
 beschreibung = "Speck"
 bild = "/uploads/2020/07/23/spreck.jpeg"
