@@ -34,7 +34,7 @@ titel = "Amazone UX 5201 Super"
 untertitel = "V"
 [[fuhrpark.maschinen]]
 beschreibung = "<p>Raupenlaufwerk, Lenksystem, Ertragskartierung, Bandschneidwerk</p>"
-bild = "/uploads/2024/d688500c-1f09-4f49-bb27-6a7d6eac8928 2.jpg"
+bild = "/uploads/2024/d688500c-1f09-4f49-bb27-6a7d6eac8928.jpg"
 titel = "Gerste, Raps, Weizen, Soja, Ackerbohnen"
 untertitel = "Lexion 8700 mit Macron FD235"
 [[fuhrpark.maschinen]]
