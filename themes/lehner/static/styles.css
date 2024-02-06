@@ -9,9 +9,9 @@ body *:not(i) {
 h1 {
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   color: #704231;
-  font-size: 9rem;
-  line-height: 1em;
-  margin: 2rem 0 0 0 !important;
+  font-size: 5rem;
+  line-height: 1.3em;
+  margin: 2rem 0 1rem 0 !important;
   font-weight: 200;
 }
 h2 {
@@ -59,9 +59,9 @@ a {
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   text-transform: none;
   text-align: center;
-  font-size: 7rem;
-  line-height: 7rem;
-  margin: 0;
+  font-size: 5rem;
+  line-height: 1.3em;
+  margin: 0 0 1rem 0;
 }
 #akt h3 {
   text-align: center;
@@ -94,7 +94,7 @@ a {
 #mo h2 {
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   color: #704231;
-  font-size: 8rem;
+  font-size: 5rem;
   text-transform: none;
   text-align: center;
   margin: 0;
@@ -160,7 +160,7 @@ a {
 #imgs h2 {
   color: #704231;
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
-  font-size: 7rem;
+  font-size: 5rem;
   text-align: center;
   text-transform: none;
 }
@@ -181,6 +181,16 @@ a {
 #ab .kcontent h2 {
   font-weight: 200;
   font-size: 1.6rem;
+}
+#ab .kcontent ul {
+  margin: 0;
+  padding: 0;
+}
+#ab .kcontent ul li {
+  margin-left: 1.3em;
+}
+#ab .kcontent ul li p {
+  margin: 0;
 }
 #ab .kt {
   margin: 2rem 0 0 0 !important;
@@ -206,7 +216,7 @@ a {
   font-size: 5rem;
   font-weight: 200;
   margin-bottom: 0;
-  line-height: 4rem;
+  line-height: 1.3em;
 }
 #ab #mimg {
   text-align: center;
@@ -219,6 +229,8 @@ a {
 #ab h1 {
   color: #704231;
   text-align: center;
+  line-height: 1.3em;
+  margin-bottom: 1rem;
 }
 @media (max-width: 768px) {
   #ab h1 {
@@ -230,10 +242,11 @@ a {
   text-align: center;
 }
 #ab .intro h1 {
-  margin-bottom: 0;
+  line-height: 1.3em;
+  margin-bottom: 1rem;
 }
 #ab .intro h2 {
-  margin: -3rem 0 1rem 0;
+  margin: -2rem 0 1rem 0;
 }
 @media (max-width: 768px) {
   #ab .intro h2 {
@@ -278,7 +291,7 @@ a {
 }
 @media (max-width: 768px) {
   #sp h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 }
 #sp .intro {
@@ -286,7 +299,7 @@ a {
 }
 #sp h2 {
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
-  font-size: 6rem;
+  font-size: 4rem;
   text-align: center;
   text-transform: none;
   color: #704231;
@@ -332,6 +345,8 @@ a {
 #rm h1 {
   color: #704231;
   text-align: center;
+  line-height: 1.3em;
+  margin-bottom: 1rem;
 }
 @media (max-width: 768px) {
   #rm h1 {
@@ -343,10 +358,11 @@ a {
   text-align: center;
 }
 #rm .intro h1 {
-  margin-bottom: 0;
+  line-height: 1.3em;
+  margin-bottom: 1rem;
 }
 #rm .intro h2 {
-  margin: -3rem 0 1rem 0;
+  margin: -2rem 0 1rem 0;
 }
 #rm #rmb {
   padding: 3rem 0 3rem 0;
@@ -415,12 +431,14 @@ a {
   margin: 0 0 3rem 0 !important;
 }
 #homea h1 {
+  line-height: 1.3em;
+  margin-bottom: 1rem;
   color: #5e7436;
   padding: 2rem;
 }
 @media (max-width: 768px) {
   #homea h1 {
-    font-size: 6rem;
+    font-size: 5rem;
   }
 }
 #homea .intro {
@@ -453,7 +471,7 @@ a {
 #homea #fpsec h2 {
   color: #5e7436;
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
-  font-size: 7rem;
+  font-size: 4rem;
   text-align: center;
   text-transform: none;
 }
@@ -468,7 +486,7 @@ a {
 #homea #videosec h2 {
   color: #5e7436;
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
-  font-size: 7rem;
+  font-size: 4rem;
   text-align: center;
   text-transform: none;
 }
@@ -848,7 +866,12 @@ footer .column:last-child {
 footer ul {
   padding: 0;
   margin: 0;
-  list-style-type: none;
+}
+footer ul li {
+  margin-left: 1.3rem;
+}
+footer ul p {
+  margin: 0;
 }
 footer a {
   color: white;
@@ -872,6 +895,8 @@ footer .footermenu a {
   padding: 0 0 4rem 0;
 }
 .subpage h1 {
+  line-height: 1.3em;
+  margin-bottom: 1rem;
   text-align: center;
 }
 @media (max-width: 768px) {
@@ -950,9 +975,9 @@ footer .footermenu a {
   font-family: "HerrVonMuellerhoff W05 Regular", Arial, Helvetica, sans-serif !important;
   text-transform: none;
   text-align: center;
-  font-size: 7rem;
-  line-height: 7rem;
-  margin: 0;
+  font-size: 5rem;
+  line-height: 1.3em;
+  margin: 0 0 1rem 0;
 }
 #home #zi h3 {
   text-align: center;

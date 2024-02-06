@@ -29,9 +29,6 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Der nächste geöffnete Sonntag, ist der 03.12.2023 und 10.12.2023!"
-[[aktuell.gerichte]]
-datum = ""
 gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
@@ -55,7 +52,7 @@ weight = 1
 bild = "/uploads/2020/01/10/DZ4.jpeg"
 button_beschriftung = "zu den Zimmern"
 button_link = "zimmer.md"
-content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Einzelzimmer, Doppelzimmer und Familienzimmer ab 44 € / Zimmer / Nacht inklusive Frühstück - mit Aufzug, Dusche/WC, teilweise Balkon, TV, W-LAN und vielem mehr.</p>"
+content = "<p>Unsere Zimmer sind frisch renoviert - wir begrüßen Sie jetzt in top modernen Zimmern, die keine Wünsche offen lassen.</p><p>Einzelzimmer, Doppelzimmer und Familienzimmer mit Aufzug, Dusche/WC, teilweise Balkon, TV, W-LAN und vielem mehr.</p>"
 hintergrundbild = "/uploads/2019/01/05/background_zimmer.jpg"
 titel = "Zimmer"
 untertitel = "Einzelzimmer, Doppelzimmer, Familienzimmer"
