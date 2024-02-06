@@ -448,6 +448,15 @@ a {
 #homea #fpsec {
   padding: 3rem 0;
 }
+#homea #fpsec .hlimggal {
+  columns: 4;
+  gap: 1rem;
+}
+@media (max-width: 768px) {
+  #homea #fpsec .hlimggal {
+    columns: 1;
+  }
+}
 #homea #fpsec .colcont {
   background: #2a3915;
   height: 100%;
@@ -465,9 +474,14 @@ a {
   margin: 0 0 2rem 0;
 }
 #homea #fpsec .mimg {
-  width: 100%;
-  height: 30vh;
+  max-width: 100%;
   position: relative;
+  margin: 0;
+  border: 0;
+  padding: 0;
+  display: block;
+  cursor: pointer;
+  margin-bottom: 1rem;
 }
 #homea #fpsec h2 {
   color: #5e7436;
