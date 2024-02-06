@@ -11,6 +11,41 @@ beschriftung = "Jetzt Anfragen"
 link = "mailto:lehner.andreas@freenet.de"
 [fuhrpark]
 titel = "Fuhrpark"
+
+[[fuhrpark.maschinen]]
+beschreibung = "<p>Teilflächen genaues Arbeiten mit Dünger- und Pflanzenschutz</p>"
+bild = "/uploads/2024/IMG_5537.jpg"
+titel = "Optimale Verteilung im Schlag"
+untertitel = "Claas Crop Sensor"
+[[fuhrpark.maschinen]]
+beschreibung = "<p40 km/h Zulassung, 4 Tonnen Stützlast, Zwangslenkung, hydraulische Achsabstützung, Überladeschnecke für Getreide und Raps</p>"
+bild = "/uploads/2024/88b502c3-3857-4594-a91d-b55d88bcffd8.jpg"
+titel = "Muldenkipper und Überladewagen"
+untertitel = "Agroliner 24 Tonner "
+[[fuhrpark.maschinen]]
+beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, Aussaat mit Breitreifen und Sterntiller im Frontanbau</p>"
+bild = "/uploads/2024/IMG_8274.jpg"
+titel = "Zuckerrüben Aussaat"
+untertitel = "Vicon Unicorn syncho-drive"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>28 Meter, Einzeldüsenschaltung, Lenkachse, 5200 Liter</p>"
+bild = "/uploads/2024/IMG_6060.jpg"
+titel = "Amazone UX 5201 Super"
+untertitel = "V"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>Raupenlaufwerk, Lenksystem, Ertragskartierung, Bandschneidwerk</p>"
+bild = "/uploads/2024/d688500c-1f09-4f49-bb27-6a7d6eac8928 2.jpg"
+titel = "Gerste, Raps, Weizen, Soja, Ackerbohnen"
+untertitel = "Lexion 8700 mit Macron FD235"
+[[fuhrpark.maschinen]]
+beschreibung = "<p>Zinkensähtechnik, 6 Meter, 2 Tanksystem für Dünger und Saatgut</p>"
+bild = ""
+titel = "Köckerling Ultima 6CS Combi"
+untertitel = ""
+
+
+
+
 [[fuhrpark.maschinen]]
 beschreibung = "<p>12-reihig, Mulchsaateinrichtung, Isobus gesteuert, Section Control, Spurführung über RTK-Signal, Aussaat mit Breitreifen</p>"
 bild = "/uploads/2019/02/04/zuckerrrueben.png"

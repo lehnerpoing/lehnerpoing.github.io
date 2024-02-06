@@ -34,7 +34,7 @@ gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wi
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
 [bilder]
-button_beschriftung = "Alle Bilder sehen"
+button_beschriftung = "Unsere Räumlichkeiten"
 button_link = "räumlichkeiten.md"
 [[bilder.bilder]]
 bild = "/uploads/2020/01/13/biergarten_home.jpg"

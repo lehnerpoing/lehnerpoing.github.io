@@ -28,16 +28,19 @@
     <h2>{{.Params.untertitel}}</h2>
     {{.Params.intro | safeHTML}}
   </div>
+  
   <div class="ui container images">
+    <a href="{{relref . .Params.bilder.button_link}}">
     <div class="imgw">
       {{range .Params.bilder.bilder}}
       <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_600" )}}) center center no-repeat; background-size:cover;">
         <h3>{{.titel}}</h3>
-        <div class="overlay"></div>
       </div>
       {{end}}
     </div>
+  </a>
   </div>
+
   <div class="ui container centerContent">
     <a class="lbutton" href="{{relref . .Params.bilder.button_link}}">
       {{.Params.bilder.button_beschriftung}}
