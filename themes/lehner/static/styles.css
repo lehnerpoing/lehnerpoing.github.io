@@ -473,7 +473,7 @@ a {
   font-weight: normal;
   margin: 0 0 2rem 0;
 }
-#homea #fpsec .mimg {
+#homea #fpsec .mimgx {
   max-width: 100%;
   position: relative;
   margin: 0;
@@ -482,6 +482,11 @@ a {
   display: block;
   cursor: pointer;
   margin-bottom: 1rem;
+}
+#homea #fpsec .mimg {
+  width: 100%;
+  height: 30vh;
+  position: relative;
 }
 #homea #fpsec h2 {
   color: #5e7436;

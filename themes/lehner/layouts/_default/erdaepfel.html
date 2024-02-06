@@ -28,7 +28,7 @@
     <h2>{{.Params.fuhrpark.titel}}</h2>
     <div class="hlimggal imggal">
       {{range $x,$d := .Params.fuhrpark.maschinen}}
-      <img class="mimg" data-modal="hofl" data-idx="{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "c_scale,f_auto,w_400" )}}"/>
+      <img class="mimgx" data-modal="hofl" data-idx="{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "c_scale,f_auto,w_400" )}}"/>
       {{end}}
     </div>
   </div>
