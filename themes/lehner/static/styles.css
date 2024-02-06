@@ -454,7 +454,7 @@ a {
 }
 @media (max-width: 768px) {
   #homea #fpsec .hlimggal {
-    columns: 1;
+    columns: 2;
   }
 }
 #homea #fpsec .colcont {
