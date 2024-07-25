@@ -67,17 +67,19 @@
   <div id="mo" >
     <div class="ui container">
       <h2>{{.Params.agrar_heisl.titelzeile}}</h2>
-      <div class="ui two column stackable grid">
+      <div class="ui three column stackable grid">
         {{range .Params.agrar_heisl.bilder}}
         <div class="ui column cc">
-          <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_600" )}}) center center no-repeat; background-size:cover;">
+          <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_600" )}}) center top no-repeat; background-size:contain;">
             
           </div>
           <h3>{{.titel}}</h3>
           <div>{{.beschreibung|safeHTML}}</div>
+          {{if .buttonlink}}
           <a class="lbutton" href="{{relref $p .buttonlink}}">
             {{.buttonbeschriftung}}
           </a>
+          {{end}}
         </div>
         {{end}}
       </div>

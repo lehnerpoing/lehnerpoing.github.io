@@ -18,6 +18,10 @@ bild = "/uploads/2021/10/02/5a.jpg"
 buttonbeschriftung = "weiterlesen"
 buttonlink = "hofladen.md"
 titel = "Birgit`s Hofladen"
+[[agrar_heisl.bilder]]
+beschreibung = "<b>Werde Teil unseres Gastro-Teams</b><br/><ul><li>als Servicekraft</li><li>Bay. Traditionswirtshaus</li><li>Freitags & 1x Sonntags</li></ul><p>Schreib eine Mail an: <a href=\"mailto:gasthof-lehner@gmx.de\">gasthof-lehner@gmx.de</a><br/>oder WhatsApp/Telefon<br/>0160/8022497</p>"
+bild = "/uploads/2024/stellenanzeige.jpg"
+titel = "Wir suchen Dich!"
 [aktuell]
 button_beschriftung_1 = "Tisch reservieren"
 button_beschriftung_2 = "Zur Speisekarte"
