@@ -8,7 +8,7 @@ titelbild = "/uploads/2019/02/04/top-agrar.png"
 title = "Lehner Agrar - Lohnbetrieb"
 [anfragen]
 beschriftung = "Jetzt Anfragen"
-link = "mailto:lehner.andreas@freenet.de"
+link = "mailto:lagrar-lehner@gmx.de"
 [fuhrpark]
 titel = "Fuhrpark"
 
