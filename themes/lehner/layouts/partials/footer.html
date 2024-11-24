@@ -4,7 +4,7 @@
   <div id="logofooter">
     {{if eq .Params.URL "/lehner-agrar-lohnbetrieb/"}}
     {{else}}
-    <img src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+    <img src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "format=auto" )}}" />
     {{end}}
   </div>
   <div class="ui container">
@@ -21,7 +21,7 @@
       </div>
       <div class="column al">
         {{if eq .Params.URL "/lehner-agrar-lohnbetrieb/"}}
-        <img class="footeralogo" src="{{partial "imgUrl" (dict "img" $ta.Params.logo "params" "f_auto" )}}" />
+        <img class="footeralogo" src="{{partial "imgUrl" (dict "img" $ta.Params.logo "params" "format=auto" )}}" />
         {{else}}
         <h5>{{$t.Params.footer_2.titel}}</h5>
         {{$t.Params.footer_2.content|safeHTML}}

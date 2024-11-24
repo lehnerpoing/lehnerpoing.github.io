@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div id="ab">
-  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
     <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
   </div>
   <div class="ui container intro">

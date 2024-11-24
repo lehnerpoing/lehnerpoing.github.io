@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div id="homea">
-  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center center no-repeat; background-size:cover;">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "fit=scale-down,format=auto,width=2500" )}}) center center no-repeat; background-size:cover;">
     <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
   </div>
   <div class="ui container intro eh">
@@ -12,7 +12,7 @@
       {{range .Params.leistungen}}
       <div class="column">
         <div>
-          <img src="{{partial "imgUrl" (dict "img" .icon "params" "c_scale,f_auto,w_600" )}}" />
+          <img src="{{partial "imgUrl" (dict "img" .icon "params" "fit=scale-down,format=auto,width=600" )}}" />
           <h2>{{.titel}}</h2>
         </div>
       </div>
@@ -28,7 +28,7 @@
     <h2>{{.Params.fuhrpark.titel}}</h2>
     <div class="hlimggal imggal">
       {{range $x,$d := .Params.fuhrpark.maschinen}}
-      <img class="mimgx" data-modal="hofl" data-idx="{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "c_scale,f_auto,w_400" )}}"/>
+      <img class="mimgx" data-modal="hofl" data-idx="{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "fit=scale-down,format=auto,width=400" )}}"/>
       {{end}}
     </div>
   </div>
@@ -37,7 +37,7 @@
       <ul id="gal_hofl" class="imggalslider">
         {{range $x,$d := .Params.fuhrpark.maschinen}}
         <li>
-          <img id="gal_{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "c_fill,h_1600,w_1600,g_auto,f_auto/c_scale,h_1200" )}} " />
+          <img id="gal_{{$x}}" src="{{partial "imgUrl" (dict "img" $d.bild "params" "fit=cover,height=1600,width=1600,g_auto,format=auto/fit=scale-down,height=1200" )}} " />
         </li>
         {{end}}
       </ul>

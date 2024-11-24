@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $h := .Site.GetPage "_index.md" }}
 <div class="subpage">
-  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" $h.Params.bild_teaser.bild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" $h.Params.bild_teaser.bild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
   </div>
   <div class="ui container standard">
     <h1>{{.Title}}</h1>

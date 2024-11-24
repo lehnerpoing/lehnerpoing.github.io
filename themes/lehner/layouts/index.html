@@ -3,10 +3,10 @@
 <div id="home">
   <div id="homesplit">
     {{range .Params.homesplit}}
-    <div class="col" style="background:url({{partial "imgUrl" (dict "img" .hintergrundbild "params" "c_scale,f_auto,w_1200" )}}) center top no-repeat; background-size:cover;">
+    <div class="col" style="background:url({{partial "imgUrl" (dict "img" .hintergrundbild "params" "fit=scale-down,format=auto,width=1200" )}}) center top no-repeat; background-size:cover;">
       <div class="inner {{.farbe}}">
         <a href="{{relref $p .link}}">
-          <img class="logo" src="{{partial "imgUrl" (dict "img" .logo "params" "f_auto" )}}" />
+          <img class="logo" src="{{partial "imgUrl" (dict "img" .logo "params" "format=auto" )}}" />
         </a>
         <a class="button" href="{{if eq .link "_index.md"}}#homestart{{else}}{{relref $p .link}}{{end}}">
           <i class="arrow alternate circle right outline icon"></i>{{.button_beschriftung}}
@@ -17,7 +17,7 @@
     {{end}}
   </div> 
   <!--
-<div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_teaser.bild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+<div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.bild_teaser.bild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
           <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
         </div>
 
@@ -33,7 +33,7 @@
     <a href="{{relref . .Params.bilder.button_link}}">
     <div class="imgw">
       {{range .Params.bilder.bilder}}
-      <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_600" )}}) center center no-repeat; background-size:cover;">
+      <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "fit=scale-down,format=auto,width=600" )}}) center center no-repeat; background-size:cover;">
         <h3>{{.titel}}</h3>
       </div>
       {{end}}
@@ -46,7 +46,7 @@
       {{.Params.bilder.button_beschriftung}}
     </a>
   </div>
-  <div id="zi" style="background:url({{partial "imgUrl" (dict "img" .Params.zimmer.hintergrundbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="zi" style="background:url({{partial "imgUrl" (dict "img" .Params.zimmer.hintergrundbild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
     <div class="ui container">
       <h2>{{.Params.zimmer.titel}}</h2>
       <h3>{{.Params.zimmer.untertitel}}</h3>
@@ -59,7 +59,7 @@
           </a>
         </div>
         <div class="ui column imgcol">
-          <img src="{{partial "imgUrl" (dict "img" .Params.zimmer.bild "params" "c_scale,f_auto,q_100,w_800" )}}" />
+          <img src="{{partial "imgUrl" (dict "img" .Params.zimmer.bild "params" "fit=scale-down,format=auto,q_100,width=800" )}}" />
         </div>
       </div>
     </div>
@@ -70,7 +70,7 @@
       <div class="ui three column stackable grid">
         {{range .Params.agrar_heisl.bilder}}
         <div class="ui column cc">
-          <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "c_scale,f_auto,w_600" )}}) center top no-repeat; background-size:contain;">
+          <div class="img" style="background:url({{partial "imgUrl" (dict "img" .bild "params" "fit=scale-down,format=auto,width=600" )}}) center top no-repeat; background-size:contain;">
             
           </div>
           <h3>{{.titel}}</h3>
@@ -85,7 +85,7 @@
       </div>
     </div>
   </div>
-  <div id="akt" style="background:url({{partial "imgUrl" (dict "img" .Params.aktuell.hintergrundbild "params" "f_auto" )}}) left 5rem no-repeat; background-size:contain;">
+  <div id="akt" style="background:url({{partial "imgUrl" (dict "img" .Params.aktuell.hintergrundbild "params" "format=auto" )}}) left 5rem no-repeat; background-size:contain;">
     <div class="ui container">
       <h2>{{.Params.aktuell.titel}}</h2>
       <h3>{{.Params.aktuell.untertitel}}</h3>

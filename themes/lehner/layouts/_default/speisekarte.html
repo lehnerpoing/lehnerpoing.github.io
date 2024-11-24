@@ -1,14 +1,14 @@
 {{ define "main" }}
 {{ $h := .Site.GetPage "_index.md" }}
 <div id="sp">
-  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="bteaser" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
     <h1>{{.Params.title}}</h1>
   </div>
   <div id="spk">
     {{range .Params.abschnitte}}
     <div class="spka">
       {{with .bild}}
-      <div class="ui container" style="background:url({{partial "imgUrl" (dict "img" . "params" "f_auto" )}}) right bottom no-repeat; background-size:200px auto;">
+      <div class="ui container" style="background:url({{partial "imgUrl" (dict "img" . "params" "format=auto" )}}) right bottom no-repeat; background-size:200px auto;">
         {{else}}
         <div class="ui container">
           {{end}}
@@ -20,7 +20,7 @@
       {{end}}
     </div>
   </div>
-  <div id="akt" class="sp" style="background:url({{partial "imgUrl" (dict "img" $h.Params.aktuell.hintergrundbild "params" "f_auto" )}}) left 5rem no-repeat; background-size:contain;">
+  <div id="akt" class="sp" style="background:url({{partial "imgUrl" (dict "img" $h.Params.aktuell.hintergrundbild "params" "format=auto" )}}) left 5rem no-repeat; background-size:contain;">
     <div class="ui container">
       <h2>{{$h.Params.aktuell.titel}}</h2>
       <h3>{{$h.Params.aktuell.untertitel}}</h3>

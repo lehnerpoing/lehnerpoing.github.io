@@ -3,13 +3,13 @@
   <a href="/" id="logolink">
     <div class="logow {{if eq .RelPermalink "/hofladen/"}}hofladen{{end}}">
       {{if eq .RelPermalink "/lehner-agrar-lohnbetrieb/"}}
-      <img class="logoa" src="{{partial "imgUrl" (dict "img" $t.Params.logo_agrar "params" "f_auto" )}}" />
+      <img class="logoa" src="{{partial "imgUrl" (dict "img" $t.Params.logo_agrar "params" "format=auto" )}}" />
       {{else}}
       {{if eq .RelPermalink "/hofladen/"}}
-      <img class="logo eh" src="{{partial "imgUrl" (dict "img" "/uploads/2023/02/09/logo_lehner.png" "params" "f_auto" )}}" />
+      <img class="logo eh" src="{{partial "imgUrl" (dict "img" "/uploads/2023/02/09/logo_lehner.png" "params" "format=auto" )}}" />
       {{else}}
       {{if ne .RelPermalink "/"}}
-      <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "f_auto" )}}" />
+      <img class="logo" src="{{partial "imgUrl" (dict "img" $t.Params.logo "params" "format=auto" )}}" />
       {{end}}
       {{end}}
       {{end}}

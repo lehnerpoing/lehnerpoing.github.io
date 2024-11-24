@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div id="ab">
-  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "c_scale,f_auto,w_2500" )}}) center top no-repeat; background-size:cover;">
+  <div id="bteasera" style="background:url({{partial "imgUrl" (dict "img" .Params.titelbild "params" "fit=scale-down,format=auto,width=2500" )}}) center top no-repeat; background-size:cover;">
     <div class="content">{{.Params.bild_teaser.content|safeHTML}}</div>
   </div>
   <div class="ui container intro">
@@ -12,7 +12,7 @@
   </div>
   <div class="ui container centered" style="display:flex;justify-content:center;">
     <div id="mimg">
-      <img src="{{partial "imgUrl" (dict "img" .Params.bild "params" "c_scale,f_auto,w_2000" )}}" />
+      <img src="{{partial "imgUrl" (dict "img" .Params.bild "params" "fit=scale-down,format=auto,width=2000" )}}" />
     </div>
   </div>
   <div id="hist">
@@ -33,7 +33,7 @@
     <div class="ui four column grid doubling">
       {{range .Params.bilder.bilder}}
       <div class="column">
-        <div class="galimg" style="background:url({{partial "imgUrl" (dict "img" . "params" "c_scale,f_auto,w_500" )}}) center center no-repeat; background-size:cover;"></div>
+        <div class="galimg" style="background:url({{partial "imgUrl" (dict "img" . "params" "fit=scale-down,format=auto,width=500" )}}) center center no-repeat; background-size:cover;"></div>
       </div>
       {{end}}
     </div>
