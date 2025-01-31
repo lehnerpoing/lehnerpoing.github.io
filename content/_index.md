@@ -33,7 +33,7 @@ titel = "Oafach guad"
 untertitel = "Bayrische Spezialitäten"
 [[aktuell.gerichte]]
 datum = ""
-gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben von 10 bis 14 Uhr."
+gericht = "Aufgrund des Personalmangels müssen auch wir euch mitteilen, dass wir nur noch die ersten beiden Sonntage im Monat für euch offen haben von 10 bis 14 Uhr. Im März und April 2025 haben wir aus gesundheitlichen Gründen sonntags nicht geöffnet."
 [bild_teaser]
 bild = "/uploads/2020/01/10/slide_5.jpg"
 content = "<p>Gasthof Lehner in Poign</p><p><strong>Oafach gmiatlich</strong></p><p><a href=\"mailto:lehner.poign@freenet.de\" title=\"Reservierung\">Zur Reservierung</a></p>"
