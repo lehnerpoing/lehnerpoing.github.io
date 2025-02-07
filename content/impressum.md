@@ -6,8 +6,8 @@ title = "Impressum"
 weight = 1
 
 +++
-Inhaber: Brigitte und Franz Lehner  
-Talstraße 3  
+Inhaber: Andreas Lehner  
+Talstraße 4
 93080 Pentling / Poign
 
 Telefon: 09405 2408  
