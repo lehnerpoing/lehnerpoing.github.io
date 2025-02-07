@@ -58,9 +58,9 @@ Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begrif
 
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist die:
 
-Gasthof Lehner
+Andreas Lehner
 
-Talstraße 3
+Talstraße 4
 
 93080 Pentling / Poign
 
